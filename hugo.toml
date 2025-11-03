@@ -1,0 +1,20 @@
+baseURL = "https://galuhmaher.com/"
+languageCode = "id-id"
+title = "Galuh Maher Website"
+
+[params]
+  description = "Personal Website milik Galuh Maher."
+  keywords = "personal, website, blog, blogger, galuh maher, gamer"
+  author = "Galuh Maher"
+  ogImage = "images/og-image.jpg"  # Path relatif untuk gambar Open Graph
+  twitterImage = "images/twitter-image.jpg"  # Path relatif untuk gambar Twitter Card
+
+# Generate
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  redirect = "/:slug/"
+  page = "/:slug/"
+  tags = "/tags/:slug"
+
