@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body class="min-h-screen flex flex-col bg-[url(/src/img/bg.png)]">
+
+<div class="flex-grow">
+  <header class="p-2">
+    {{ partial "header.html" . }}
+  </header>
+  <main class="p-2">
+      {{ block "main" . }}{{ end }}
+  </main>
+
+{{ partial "footer.html" . }}
+
+</div>
+
+</body>
+</html>

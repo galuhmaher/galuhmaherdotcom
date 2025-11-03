@@ -1,0 +1,16 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{{ $style := resources.Get "css/tailwind.css" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<title>
+{{ if .IsHome }}
+{{ .Site.Title }}
+{{ else }}
+{{ .Title }} | {{ .Site.Title }}
+{{ end }}
+</title>
+
+{{ if .Params.custom_css }}
+<link rel="stylesheet" href="{{ .Params.custom_css }}">
+{{ end }}

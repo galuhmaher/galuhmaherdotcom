@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container mx-auto max-w-3xl">
+  {{ .Content }}
+  {{ range .Pages }}
+  <div>
+
+  <div class="border-[3px] border-zinc-400 rounded-md
+  p-2 mb-4 bg-white font-inter">
+  <h2 class="text-3xl md:text-4xl font-bold mb-4">
+  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  <div class="konten">
+  {{ .Summary }}
+
+  <a href="{{ .RelPermalink }}"><p class="text-right">[Read More]</p></a>
+  </div>
+  </div>
+
+</div>
+  {{ end }}
+
+</div>
+{{ end }}
