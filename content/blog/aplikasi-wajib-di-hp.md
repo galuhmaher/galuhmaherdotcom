@@ -1,11 +1,10 @@
-+++
-title = 'Aplikasi Wajib di HP saya'
-type = 'blog'
-date = '2025-10-10T15:32:46+07:00'
-draft = false
-slug = 'aplikasi-wajib-di-hp'
-tags = 'note'
-+++
+---
+title: "Aplikasi Wajib di HP saya"
+date: "2025-10-10T15:32:46+07:00"
+type: "blog"
+draft: false
+slug: "aplikasi-wajib-di-hp"
+---
 Terinspirasi dari postingan default apps para warga Bear Blog seperti [postingan ini](https://linkage.lol/default-apps-for-2024/), jadi saya pengen juga membuatnya. Biar nanti kalau beli HP baru nggak lupa harus install apa. Berikut ini adalah aplikasi wajib di HP saya :
 
 <!--more-->
