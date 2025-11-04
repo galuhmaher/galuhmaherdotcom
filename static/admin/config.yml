@@ -19,3 +19,15 @@ collections:
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "redirect"
+    label: "Redirect"
+    folder: "content"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "string", default: "redirect" }
+      - { label: "Redirect", name: "redirect", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

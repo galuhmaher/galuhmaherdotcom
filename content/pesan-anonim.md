@@ -4,4 +4,4 @@ layout: 'redirect'
 redirect: 'https://ngl.link/galuhmaher2'
 ---
 
-Redirect
+Redirect Pesan Anonim
