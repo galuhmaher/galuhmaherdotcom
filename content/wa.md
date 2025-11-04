@@ -1,5 +1,5 @@
 ---
-title: Re- Whatsapp
+title: Whatsapp
 layout: redirect
 redirect: https://wa.me/6287760338848
 slug: wa
