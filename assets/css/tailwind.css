@@ -15,7 +15,9 @@
       "Courier New", monospace;
     --color-blue-500: oklch(62.3% 0.214 259.815);
     --color-blue-600: oklch(54.6% 0.245 262.881);
+    --color-blue-700: oklch(48.8% 0.243 264.376);
     --color-blue-800: oklch(42.4% 0.199 265.638);
+    --color-blue-900: oklch(37.9% 0.146 265.522);
     --color-rose-500: oklch(64.5% 0.246 16.439);
     --color-rose-600: oklch(58.6% 0.253 17.585);
     --color-gray-100: oklch(96.7% 0.003 264.542);
@@ -275,6 +277,9 @@
   .grid {
     display: grid;
   }
+  .hidden {
+    display: none;
+  }
   .table {
     display: table;
   }
@@ -400,9 +405,6 @@
   }
   .border-zinc-950 {
     border-color: var(--color-zinc-950);
-  }
-  .bg-gray-100 {
-    background-color: var(--color-gray-100);
   }
   .bg-white {
     background-color: var(--color-white);
@@ -559,6 +561,13 @@
       }
     }
   }
+  .hover\:bg-blue-700 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-blue-700);
+      }
+    }
+  }
   .hover\:bg-blue-800 {
     &:hover {
       @media (hover: hover) {
@@ -566,14 +575,41 @@
       }
     }
   }
+  .hover\:bg-blue-900 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-blue-900);
+      }
+    }
+  }
+  .focus\:bg-blue-700 {
+    &:focus {
+      background-color: var(--color-blue-700);
+    }
+  }
   .focus\:bg-blue-800 {
     &:focus {
       background-color: var(--color-blue-800);
     }
   }
+  .focus\:bg-blue-900 {
+    &:focus {
+      background-color: var(--color-blue-900);
+    }
+  }
+  .active\:bg-blue-700 {
+    &:active {
+      background-color: var(--color-blue-700);
+    }
+  }
   .active\:bg-blue-800 {
     &:active {
       background-color: var(--color-blue-800);
+    }
+  }
+  .active\:bg-blue-900 {
+    &:active {
+      background-color: var(--color-blue-900);
     }
   }
   .md\:grid-cols-3 {
