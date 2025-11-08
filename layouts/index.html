@@ -19,15 +19,16 @@
 <!-- basis kiri -->
 <div class="col-span-1 w-full">
 
-<div class="konten font-figtree text-base bg-white border-[3px] mb-4 p-4">
+<div class="konten font-figtree text-base bg-white border-[3px] p-4 mb-4">
   {{ .Content }}
-  {{ partial "social.html" . }}
-</div>
 
-<a class="block bg-zinc-900 rounded-md border-2 border-zinc-900 text-white text-center text-lg mb-2"
+<div class="mb-4">{{ partial "social.html" . }}</div>
+
+<a class="block bg-zinc-900 rounded-md border-2 border-zinc-900 text-white text-center text-lg mt-2 mb-2"
 href="https://galuhmaher.bearblog.dev">Bearblog</a>
-<a class="block bg-zinc-900 rounded-md border-2 border-zinc-900 text-white text-center text-lg mb-4"
+<a class="block bg-zinc-900 rounded-md border-2 border-zinc-900 text-white text-center text-lg"
 href="https://galuhmaher.blogspot.com">Blogspot</a>
+</div>
 
 </div>
 <!-- end basis kiri -->
@@ -37,6 +38,7 @@ href="https://galuhmaher.blogspot.com">Blogspot</a>
 
 <!-- youtube -->
 <div class="max-w-3xl font-figtree mx-auto border-[3px] border-zinc-900 rounded-md" >
+<h1 class="font-orbitron font-bold text-lg bg-white p-2">Youtube</h1>
     <iframe class="aspect-video"
 src="https://www.youtube.com/embed/JIEDR9dn1FY?si=teICowK4GYy-lPv4" frameborder="0"
 allowfullscreen></iframe></div>
@@ -49,7 +51,7 @@ allowfullscreen></iframe></div>
 </div>
 <!-- end grid -->
 
-<div class=" border-[3px] w-full max-w-3xl mx-auto rounded-md mt-4 border-zinc-900 p-2 bg-white">
+<div class="border-[3px] w-full max-w-3xl mx-auto rounded-md mt-4 border-zinc-900 p-2 bg-white">
 <h1 class="font-orbitron font-bold text-lg">Guestbook</h1>
 <iframe class="w-full"
 src="https://guestbooks.meadow.cafe/guestbook/18" height="400" frameborder="0"></iframe></div>

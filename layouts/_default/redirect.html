@@ -5,7 +5,7 @@
 {{ partial "head.html" . }}
 
  <script>
-    let detik = 5;
+    let detik = {{ .Params.waktu | default 0 }};
     function countdown() {
       const timer = document.getElementById("timer");
       if (detik > 0) {
@@ -13,7 +13,7 @@
         detik--;
         setTimeout(countdown, 1000);
       } else {
-        window.location.href = "{{ .Params.redirect }}"; // ganti dengan URL tujuan
+        window.location.href = "{{ .Params.redirect | default "/" }}"; // ganti dengan URL tujuan
       }
     }
     window.onload = countdown;
