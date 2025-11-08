@@ -4,8 +4,7 @@ type: page
 draft: false
 slug: now
 ---
-Last Update : **2 November 2025**
-
+Last Update : **2 November 2025**  
 Location : **Indonesia**
 
 ## Project
