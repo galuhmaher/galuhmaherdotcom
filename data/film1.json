@@ -1,0 +1,409 @@
+[
+    {
+        "judul": "F1: The Movie",
+        "tahun": 2025,
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2025-10-18",
+        "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+        "review": "Film balapan terbaik sepanjang masa."
+    },
+    {
+        "judul": "The Fantastic Four: First Steps",
+        "tahun": 2025,
+        "tipe": "film",
+        "rating": 7,
+        "ditonton": "2025-09-24",
+        "poster": "https://image.tmdb.org/t/p/w500/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "review": "Suka banget sama konsep retro-futuristiknya. Johnny Storm di sini pinter, malah Reed Richards yang nggak kelihatan pinter."
+    },
+    {
+        "judul": "How to Train Your Dragon",
+        "tahun": 2025,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-07-17",
+        "poster": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+        "review": "Dear Disney, beginilah seharusnya membuat live action. Belajarlah dari Universal Pictures."
+    },
+    {
+        "judul": "Lost in Starlight",
+        "tahun": 2025,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-05-31",
+        "poster": "https://image.tmdb.org/t/p/w500/6RDXvT0C9Mvm5FNHGThn4iP8xKH.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Bon Appétit, Your Majesty S1",
+        "tahun": 2025,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-09-24",
+        "poster": "https://image.tmdb.org/t/p/w500/xnDFKpPeANnUaRmlNev4LBXogvb.jpg",
+        "review": "Jangan nonton ini di tengah malam. Niscaya kamu akan ke dapur dan memasak Indomie."
+    },
+    {
+        "judul": "Nine Puzzles S1",
+        "tahun": 2025,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-05-27",
+        "poster": "https://image.tmdb.org/t/p/w500/gvK1jmdaKrQ0pBOsRkBBCLYhgV2.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Our Unwritten Seoul S1",
+        "tahun": 2025,
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2025-07-14",
+        "poster": "https://image.tmdb.org/t/p/w500/aJa9ucKWPRxR0p4tOoD4cOfdu5e.jpg",
+        "review": "Kemarin sudah berlalu, besok belum terjadi, hari ini masih misteri."
+    },
+    {
+        "judul": "Takopi's Original Sin S1",
+        "tahun": 2025,
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2025-08-02",
+        "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+        "review": "Absolute cinema-pi."
+    },
+    {
+        "judul": "The Trauma Code: Heroes on Call S1",
+        "tahun": 2025,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-02-07",
+        "poster": "https://image.tmdb.org/t/p/w500/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+        "review": "dr. Baek memang baek orangnya."
+    },
+    {
+        "judul": "Dune: Part Two",
+        "tahun": 2024,
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2024-04-15",
+        "poster": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+        "review": "Lisan Al-Ghaib! Lisan Al-Ghaib!"
+    },
+    {
+        "judul": "Godzilla x Kong: The New Empire",
+        "tahun": 2024,
+        "tipe": "film",
+        "rating": 6,
+        "ditonton": "2024-05-16",
+        "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+        "review": "Bukan film bagus memang. Tapi karena saya suka film monster raksasa, jadi tetep masuk list."
+    },
+    {
+        "judul": "Look Back",
+        "tahun": 2024,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-11-13",
+        "poster": "https://image.tmdb.org/t/p/w500/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg",
+        "review": ""
+    },
+    {
+        "judul": "The Wild Robot",
+        "tahun": 2024,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-10-18",
+        "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+        "review": "Cuma kisah robot dan angsa kok 😭."
+    },
+    {
+        "judul": "Dandadan S1",
+        "tahun": 2024,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2024-11-01",
+        "poster": "https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+        "review": "Kok bisa ada orang kepikiran bikin cerita yang masalah utamanya bijinya diambil hantu."
+    },
+    {
+        "judul": "Delicious in Dungeon S1",
+        "tahun": 2024,
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2024-02-17",
+        "poster": "https://image.tmdb.org/t/p/w500/9t3DYdGxK3i4WRzKvIZwJd4kBnr.jpg",
+        "review": "Adiknya sedang bertaruh nyawa, kakaknya malah wisata kuliner."
+    },
+    {
+        "judul": "Marry My Husband S1",
+        "tahun": 2024,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2024-01-23",
+        "poster": "https://image.tmdb.org/t/p/w500/dvmnUM7SqMu84lBcECLQ7Ho77oj.jpg",
+        "review": "Suka banget tontonan yang ceritanya regresi kayak gini."
+    },
+    {
+        "judul": "Orb: On the Movements of the Earth S1",
+        "tahun": 2024,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2024-12-14",
+        "poster": "https://image.tmdb.org/t/p/w500/crV1eBtpI5F4nlMwzrBrh4zZuFV.jpg",
+        "review": "Ingat 10% keuntungan untuk Potocki."
+    },
+    {
+        "judul": "Solo Leveling S1",
+        "tahun": 2024,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2024-02-11",
+        "poster": "https://image.tmdb.org/t/p/w500/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+        "review": "Sebagai pembaca manhwa-nya, ini melebihi ekspektasi."
+    },
+    {
+        "judul": "Godzilla Minus One",
+        "tahun": 2023,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-05-03",
+        "poster": "https://image.tmdb.org/t/p/w500/cNh9jvcL9UTbZx2qmq2NVst9KDb.jpg",
+        "review": "Saya pun kalau demi Minami Hamabe, juga akan ngelawan Godzilla."
+    },
+    {
+        "judul": "Jatuh Cinta Seperti di Film-Film",
+        "tahun": 2023,
+        "tipe": "film",
+        "rating": 10,
+        "ditonton": "2024-03-29",
+        "poster": "https://image.tmdb.org/t/p/w500/nvCFJIj4cJXZeOwGU0sns0g03K1.jpg",
+        "review": "Setuju dengan yang lain, drone scene memang terbaik."
+    },
+    {
+        "judul": "Perfect Days",
+        "tahun": 2023,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-05-17",
+        "poster": "https://image.tmdb.org/t/p/w500/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
+        "review": "Kondo wa kondo, ima wa ima. Nanti ya nanti, sekarang ya sekarang."
+    },
+    {
+        "judul": "Frieren: Beyond Journey's End S1",
+        "tahun": 2023,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-12-08",
+        "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "review": "Sebuah pengingat yang bagus. Tentang betapa terbatasnya waktu."
+    },
+    {
+        "judul": "ONE PIECE S1",
+        "tahun": 2023,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-08-31",
+        "poster": "https://image.tmdb.org/t/p/w500/78qPWmEUp0YzJmHk0A7DXy52vvK.jpg",
+        "review": "In Oda-sensei we trust."
+    },
+    {
+        "judul": "Revenant S1",
+        "tahun": 2023,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-07-08",
+        "poster": "https://image.tmdb.org/t/p/w500/o2Sk7VEZpR5WOCjtjO6ClGBKSji.jpg",
+        "review": "Nggak suka horor, kecuali kalo ada Kim Tae-ri."
+    },
+    {
+        "judul": "Twinkling Watermelon",
+        "tahun": 2023,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-10-17",
+        "poster": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+        "review": "Sama seperti 25-21, suka karena nuansa 90an-nya."
+    },
+    {
+        "judul": "Zom 100: Bucket List of the Dead S1",
+        "tahun": 2023,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-08-27",
+        "poster": "https://image.tmdb.org/t/p/w500/oU0iyAhYyA4D6DmB0nYvUCh9lXO.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Bocchi The Rock! S1",
+        "tahun": 2022,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-03-12",
+        "poster": "https://image.tmdb.org/t/p/w500/eUjkj2WhTOuuVguUySQauOMCE1u.jpg",
+        "review": "Aku Kessoku Band!"
+    },
+    {
+        "judul": "The Eminence in Shadow S1",
+        "tahun": 2022,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2022-12-07",
+        "poster": "https://image.tmdb.org/t/p/w500/2iDbkljgNVARndA9dVD9zcbuItd.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Twenty Five Twenty One S1",
+        "tahun": 2022,
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2022-04-12",
+        "poster": "https://image.tmdb.org/t/p/w500/w4AIY8FDdNyL5kvamdNHPq5KdM4.jpg",
+        "review": "Meski terlambat, selamat atas pernikahanmu Na Hee-do."
+    },
+    {
+        "judul": "Dune",
+        "tahun": 2021,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2021-10-07",
+        "poster": "https://image.tmdb.org/t/p/w500/lr3cYNDlJcpT1EWzFH42aSIvkab.jpg",
+        "review": ""
+    },
+    {
+        "judul": "A Rainy Day in New York",
+        "tahun": 2019,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-11-10",
+        "status": "rewatch",
+        "poster": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
+        "review": "Ternyata banyak yang nggak suka ya, di IMDb cuma dapet ⭐6.4/10."
+    },
+    {
+        "judul": "Avengers: Endgame",
+        "tahun": 2019,
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2019-04-24",
+        "poster": "https://image.tmdb.org/t/p/w500/b55H5YuXFPyiCmjDIliFf6EhlUl.jpg",
+        "review": "Peak superhero movie."
+    },
+    {
+        "judul": "Stranger Things S2",
+        "tahun": 2017,
+        "tipe": "series",
+        "rating": 10,
+        "ditonton": "2017-11-07",
+        "poster": "https://image.tmdb.org/t/p/w500/lXS60geme1LlEob5Wgvj3KilClA.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Your Name.",
+        "tahun": 2016,
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2017-07-25",
+        "poster": "https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg",
+        "review": "Mada kono sekai wa.."
+    },
+    {
+        "judul": "Stranger Things S1",
+        "tahun": 2016,
+        "tipe": "series",
+        "rating": 10,
+        "ditonton": "2017-11-05",
+        "poster": "https://image.tmdb.org/t/p/w500/rbnuP7hlynAMLdqcQRCpZW9qDkV.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Begin Again",
+        "tahun": 2014,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2016-08-09",
+        "poster": "https://image.tmdb.org/t/p/w500/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+        "review": "Dari film ini, saya jatuh cinta sama Keira Knightley."
+    },
+    {
+        "judul": "Interstellar",
+        "tahun": 2014,
+        "tipe": "film",
+        "rating": 10,
+        "ditonton": "2015-04-02",
+        "poster": "https://image.tmdb.org/t/p/w500/iawqQdFKI7yTUoSkDNP8gyV3J3r.jpg",
+        "review": "Interstellar overrated? Lah bodo amat."
+    },
+    {
+        "judul": "Angels & Demons",
+        "tahun": 2009,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-04-25",
+        "status": "rewatch",
+        "poster": "https://image.tmdb.org/t/p/w500/hrvNVd0GDeytbDhduWa3SFKmg4A.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Linda Linda Linda",
+        "tahun": 2005,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-10-19",
+        "poster": "https://image.tmdb.org/t/p/w500/yHrAGuxeCEKzh54VKO42Fq2g0n7.jpg",
+        "review": ""
+    },
+    {
+        "judul": "One Piece Series",
+        "tahun": 1999,
+        "tipe": "series",
+        "rating": 10,
+        "ditonton": "2022-06-21",
+        "poster": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+        "review": "Mulai nonton dari episode 1, dan baru suka pas di Arc Skypiea."
+    },
+    {
+        "judul": "Detective Conan Series",
+        "tahun": 1996,
+        "tipe": "series",
+        "rating": 10,
+        "ditonton": "2025-08-05",
+        "poster": "https://image.tmdb.org/t/p/w500/ibd5jpPu2oxup9ecU8xvwlRZF0O.jpg",
+        "review": "Mencoba nonton dari episode 1, biar ngerti ceritanya. Kali ini tanpa nonton filler."
+    },
+    {
+        "judul": "Whisper of the Heart",
+        "tahun": 1995,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-11-07",
+        "poster": "https://image.tmdb.org/t/p/w500/5E3Hvbu0bg38ouYf6chGftVGqZ7.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Chungking Express",
+        "tahun": 1994,
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2022-11-30",
+        "poster": "https://image.tmdb.org/t/p/w500/su10ww5eTaGV5Honll9AEPTblxW.jpg",
+        "review": "Kita bersinggungan dengan begitu banyak orang setiap hari. Suatu saat, kita akan menemukan seseorang yang membuat kita berhenti."
+    },
+    {
+        "judul": "Jurassic Park",
+        "tahun": 1993,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-10-17",
+        "poster": "https://image.tmdb.org/t/p/w500/bRKmwU9eXZI5dKT11Zx1KsayiLW.jpg",
+        "review": "Baru nonton ini di tahun 2025, masih sangat layak ditonton."
+    },
+    {
+        "judul": "Back to the Future",
+        "tahun": 1985,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2020-10-31",
+        "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+        "review": "Legend."
+    }
+]

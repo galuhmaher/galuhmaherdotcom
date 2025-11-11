@@ -9,14 +9,14 @@
 
 <div class="w-full max-w-lg min-h-screen mx-auto p-4 mb-8">
 
-<a href="/"><img class="mx-auto w-full h-auto hover:bg-black" src="/src/img/galuhmaher-header.webp" /></a>
+<a href="/"><img class="mx-auto w-full h-auto hover:bg-zinc-200" src="/src/img/galuhmaher-header.webp" /></a>
       
 <p class="font-medium text-center text-base p-2">Follow My Social Platform</p>  
 {{ partial "social.html" . }}
 
 {{ range .Params.links }}
 <a class="block bg-zinc-900 rounded-md hover:bg-[#FF3D00] focus:bg-[#FF3D00] active:bg-[#FF3D00]
-border-4 border-zinc-900 text-white text-center text-lg p-2 my-3"
+border-4 border-zinc-900 text-white text-center text-base p-2 my-3"
 href="{{ .url }}">{{ .name }}</a>
 {{ end }}
 

@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body class="w-full max-w-6xl mx-auto min-h-screen bg-[url(/src/img/bg.png)] font-figtree">
+
+{{ $films := site.Data.film1 }}
+{{ $tonton := sort $films "ditonton" "desc" }}
+
+<div class="p-2">
+<div class="bg-white rounded-lg border-[1px] border-zinc-300 p-2 px-4 mt-2">
+<h1 class="text-2xl font-bold">Watchlist</h1>
+<p class="text-base">Sedang mengingat kembali film yang pernah ditonton.</p>
+</div></div>
+
+<div class="grid grid-cols-1 md:grid-cols-4 w-full px-2 gap-2">
+{{ range $tonton }}
+<div class="bg-white rounded-lg flex flex-row md:flex-col p-2 border-[1px] border-zinc-300">
+
+<div class="basis-1/3"><div class="md:aspect-square place-items-center overflow-hidden"><img class="h-full rounded-lg"
+    src="{{ .poster }}" alt="{{ .judul }}"></div></div>
+
+<div class="basis-2/3 p-2">
+{{ if .url }}
+<a class="underline" href="{{ .url }}"><p class="inline text-xl font-bold">{{ .judul }} ({{ .tahun }})</p></a>
+{{ else }}
+<p class="inline text-xl font-bold">{{ .judul }} ({{ .tahun }})</p>
+{{ end }}
+
+<p class="inline text-sm"> — ♥️{{ .rating }}/10</p>
+<p class="text-base mt-2">{{ .review }}</p>
+
+{{ if .status }}
+<p class="text-xs mt-2 text-right">{{ .status }} — {{ (time .ditonton).Format "02 Jan 2006" }}</p>
+{{ else }}
+<p class="text-xs mt-2 text-right">{{ (time .ditonton).Format "02 Jan 2006" }}</p>
+{{ end }}
+</div>
+
+</div>
+{{ end }}
+</div>
+
+<div class="mt-4">
+{{ partial "footer.html" . }}
+</div>
+
+</body>
+</html>
