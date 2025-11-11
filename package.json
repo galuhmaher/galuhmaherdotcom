@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/src/css/tailwind.css --watch && hugo server",
+    "dev": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/src/css/tailwind.css --watch",
     "css": "npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/src/css/tailwind.css --minify",
     "build": "npm run css && hugo --minify",
     "test": "echo \"Error: no test specified\" && exit 1"

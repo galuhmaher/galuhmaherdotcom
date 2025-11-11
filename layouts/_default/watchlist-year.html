@@ -10,7 +10,11 @@
 {{ $films := site.Data.film1 }}
 {{ $tonton := sort $films "tahun" "desc" }}
 
-<div class="p-2 mt-2"><h1 class="bg-white text-2xl font-bold rounded-lg border-[1px] border-zinc-300 p-2">Watchlist</h1></div>
+<div class="p-2">
+<div class="bg-white rounded-lg border-[1px] border-zinc-300 p-2 px-4">
+<h1 class="text-2xl font-bold">Watchlist</h1>
+<p class="text-base">Sedang mengingat kembali film yang pernah ditonton.</p>
+</div></div>
 
 <div class="grid grid-cols-1 md:grid-cols-4 w-full px-2 gap-2">
 {{ range $tonton }}

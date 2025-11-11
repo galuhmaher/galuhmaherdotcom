@@ -15,7 +15,7 @@
         "rating": 7,
         "ditonton": "2025-09-24",
         "poster": "https://image.tmdb.org/t/p/w500/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
-        "review": "Suka banget sama konsep retro-futuristiknya. Johnny Storm di sini pinter, malah Reed Richards yang nggak kelihatan pinter."
+        "review": "Suka banget sama konsep retro-futuristiknya. Sayangnya Reed Richards kureng, idenya terlalu sederhana untuk seseorang yang disebut jenius."
     },
     {
         "judul": "How to Train Your Dragon",
@@ -43,6 +43,15 @@
         "ditonton": "2025-09-24",
         "poster": "https://image.tmdb.org/t/p/w500/xnDFKpPeANnUaRmlNev4LBXogvb.jpg",
         "review": "Jangan nonton ini di tengah malam. Niscaya kamu akan ke dapur dan memasak Indomie."
+    },
+    {
+        "judul": "The Manipulated S1",
+        "tahun": 2025,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-11-05",
+        "poster": "https://image.tmdb.org/t/p/w500/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+        "review": "Ji Chang-wook jadi orang yang difitnah lagi? Oke menarik."
     },
     {
         "judul": "Nine Puzzles S1",
@@ -96,7 +105,7 @@
         "rating": 6,
         "ditonton": "2024-05-16",
         "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
-        "review": "Bukan film bagus memang. Tapi karena saya suka film monster raksasa, jadi tetep masuk list."
+        "review": ""
     },
     {
         "judul": "Look Back",
@@ -153,6 +162,15 @@
         "review": "Ingat 10% keuntungan untuk Potocki."
     },
     {
+        "judul": "Secret Level S1",
+        "tahun": 2024,
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2024-12-17",
+        "poster": "https://image.tmdb.org/t/p/w500/856MRq23grNxpeVl1PdFgmmLiT0.jpg",
+        "review": "Ngapain game bubar kayak *uhuk* Concord *uhuk* dibuatin episode juga sih."
+    },
+    {
         "judul": "Solo Leveling S1",
         "tahun": 2024,
         "tipe": "series",
@@ -177,7 +195,7 @@
         "rating": 10,
         "ditonton": "2024-03-29",
         "poster": "https://image.tmdb.org/t/p/w500/nvCFJIj4cJXZeOwGU0sns0g03K1.jpg",
-        "review": "Setuju dengan yang lain, drone scene memang terbaik."
+        "review": "Scene motor galon memang terbaik 👍"
     },
     {
         "judul": "Perfect Days",
@@ -216,7 +234,7 @@
         "review": "Nggak suka horor, kecuali kalo ada Kim Tae-ri."
     },
     {
-        "judul": "Twinkling Watermelon",
+        "judul": "Twinkling Watermelon S1",
         "tahun": 2023,
         "tipe": "series",
         "rating": 8,
@@ -270,6 +288,15 @@
         "review": ""
     },
     {
+        "judul": "Spider-Man: No Way Home",
+        "tahun": 2021,
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2021-12-15",
+        "poster": "https://image.tmdb.org/t/p/w500/9lnlNvYzQ5FnbZLXzYaYHyRCFWO.jpg",
+        "review": "fan-service yang sangat epic."
+    },
+    {
         "judul": "A Rainy Day in New York",
         "tahun": 2019,
         "tipe": "film",
@@ -286,7 +313,7 @@
         "rating": 9,
         "ditonton": "2019-04-24",
         "poster": "https://image.tmdb.org/t/p/w500/b55H5YuXFPyiCmjDIliFf6EhlUl.jpg",
-        "review": "Peak superhero movie."
+        "review": "Baru ngikutin Marvel pas Avengers: Age of Ultron. Jadi, 4 tahun yang sangat menyenangkan."
     },
     {
         "judul": "Stranger Things S2",
@@ -296,6 +323,15 @@
         "ditonton": "2017-11-07",
         "poster": "https://image.tmdb.org/t/p/w500/lXS60geme1LlEob5Wgvj3KilClA.jpg",
         "review": ""
+    },
+    {
+        "judul": "Tomorrow I Will Date with Yesterday's You",
+        "tahun": 2016,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2020-07-19",
+        "poster": "https://image.tmdb.org/t/p/w500/wBKCW5Ct3FCkpaWAgJpR4HDOPuO.jpg",
+        "review": "Film patah hati terdalamku 💔"
     },
     {
         "judul": "Your Name.",
@@ -322,7 +358,7 @@
         "rating": 8,
         "ditonton": "2016-08-09",
         "poster": "https://image.tmdb.org/t/p/w500/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
-        "review": "Dari film ini, saya jatuh cinta sama Keira Knightley."
+        "review": "Keira Knightley ♥️♥️"
     },
     {
         "judul": "Interstellar",
@@ -331,7 +367,16 @@
         "rating": 10,
         "ditonton": "2015-04-02",
         "poster": "https://image.tmdb.org/t/p/w500/iawqQdFKI7yTUoSkDNP8gyV3J3r.jpg",
-        "review": "Interstellar overrated? Lah bodo amat."
+        "review": "Interstellar overrated? Lah bodo amat, tetep film terbaik bro."
+    },
+    {
+        "judul": "Inception",
+        "tahun": 2010,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2013-03-01",
+        "poster": "https://image.tmdb.org/t/p/w500/8IB2e4r4oVhHnANbnm7O3Tj6tF8.jpg",
+        "review": "Film Nolan yang membawa saya ke film-film Nolan yang lain."
     },
     {
         "judul": "Angels & Demons",
@@ -350,7 +395,17 @@
         "rating": 8,
         "ditonton": "2024-10-19",
         "poster": "https://image.tmdb.org/t/p/w500/yHrAGuxeCEKzh54VKO42Fq2g0n7.jpg",
-        "review": ""
+        "review": "Bae Doona masih muda sekali di sini."
+    },
+    {
+        "judul": "The Bourne Identity",
+        "tahun": 2002,
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-10-30",
+        "status": "rewatch",
+        "poster": "https://image.tmdb.org/t/p/w500/mItrJfDAiMiRlb6eXAccT65jUIs.jpg",
+        "review": "Ketika udah lupa ceritanya, berarti saatnya rewatch."
     },
     {
         "judul": "One Piece Series",
@@ -359,7 +414,7 @@
         "rating": 10,
         "ditonton": "2022-06-21",
         "poster": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
-        "review": "Mulai nonton dari episode 1, dan baru suka pas di Arc Skypiea."
+        "review": "Mulai nonton dari episode 1. Awalnya ngantuk banget, baru nge-hook pas Arc Alabasta, terutama pas Poneglyph."
     },
     {
         "judul": "Detective Conan Series",
@@ -368,7 +423,7 @@
         "rating": 10,
         "ditonton": "2025-08-05",
         "poster": "https://image.tmdb.org/t/p/w500/ibd5jpPu2oxup9ecU8xvwlRZF0O.jpg",
-        "review": "Mencoba nonton dari episode 1, biar ngerti ceritanya. Kali ini tanpa nonton filler."
+        "review": "Mulai nonton dari episode 1. Timeline utamanya saja, tanpa filler."
     },
     {
         "judul": "Whisper of the Heart",
@@ -404,6 +459,6 @@
         "rating": 8,
         "ditonton": "2020-10-31",
         "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
-        "review": "Legend."
+        "review": "Nonton ini gara-gara video klip Muse - Pressure."
     }
 ]
