@@ -25,26 +25,26 @@
     src="{{ .poster }}" alt="{{ .judul }}"></div></div>
 
 <div class="basis-2/3 p-2">
-{{ if .url }}
+    {{ if .url }}
 <a class="underline" href="{{ .url }}">
-<p class="inline text-lg md:text-xl font-bold">{{ .judul }}</p></a>
+<span class="inline text-lg md:text-xl font-bold">{{ .judul }}</span></a>
 {{ else }}
-<p class="inline text-lg md:text-xl font-bold">{{ .judul }}</p>
+<span class="inline text-lg md:text-xl font-bold">{{ .judul }}</span>
 {{ end }}
 
 {{ if .tamat }}
-<p class="inline text-lg md:text-xl font-bold"> ({{ .tahun }}-{{ .tamat }})</p>
+<span class="inline text-lg md:text-xl font-bold">&nbsp;({{ .tahun }}-{{ .tamat }})&nbsp;</span>
 {{ else }}
-<p class="inline text-lg md:text-xl font-bold"> ({{ .tahun }})</p>
+<span class="inline text-lg md:text-xl font-bold">&nbsp;({{ .tahun }})&nbsp;</span>
 {{ end }}
 
-<p class="inline text-sm"> — ♥️{{ .rating }}/10</p>
-<p class="text-sm md:text-base mt-2">{{ .review }}</p>
+<span class="inline text-sm">—&nbsp;♥️{{ .rating }}/10</span>
+<span class="block text-sm md:text-base mt-2">{{ .review }}</span>
 
 {{ if .status }}
-<p class="text-xs mt-2 text-right">{{ .status }} — {{ (time .ditonton).Format "02 Jan 2006" }}</p>
+<span class="block text-xs mt-2 text-right">{{ .status }} — {{ (time .ditonton).Format "02 Jan 2006" }}</span>
 {{ else }}
-<p class="text-xs mt-2 text-right">{{ (time .ditonton).Format "02 Jan 2006" }}</p>
+<span class="block text-xs mt-2 text-right">{{ (time .ditonton).Format "02 Jan 2006" }}</span>
 {{ end }}
 </div>
 
