@@ -2,6 +2,7 @@
     {
         "judul": "F1: The Movie",
         "tahun": 2025,
+        "rilis": "2025-06-25",
         "tipe": "film",
         "rating": 9,
         "ditonton": "2025-10-18",
@@ -11,6 +12,7 @@
     {
         "judul": "The Fantastic Four: First Steps",
         "tahun": 2025,
+        "rilis": "2025-07-23",
         "tipe": "film",
         "rating": 7,
         "ditonton": "2025-09-24",
@@ -20,6 +22,7 @@
     {
         "judul": "How to Train Your Dragon",
         "tahun": 2025,
+        "rilis": "2025-06-11",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2025-07-17",
@@ -29,6 +32,7 @@
     {
         "judul": "Lost in Starlight",
         "tahun": 2025,
+        "rilis": "2025-05-30",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2025-05-31",
@@ -36,8 +40,19 @@
         "review": ""
     },
     {
+        "judul": "Mission: Impossible - The Final Reckoning",
+        "tahun": 2025,
+        "rilis": "2025-05-17",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-10-21",
+        "poster": "https://image.tmdb.org/t/p/w500/qH84QkFVLdB2ozlsyMjRr1Umw8w.jpg",
+        "review": ""
+    },
+    {
         "judul": "Bon Appétit, Your Majesty S1",
         "tahun": 2025,
+        "rilis": "2025-08-23",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2025-09-24",
@@ -47,6 +62,7 @@
     {
         "judul": "The Manipulated S1",
         "tahun": 2025,
+        "rilis": "2025-11-05",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2025-11-05",
@@ -57,6 +73,7 @@
     {
         "judul": "Nine Puzzles S1",
         "tahun": 2025,
+        "rilis": "2025-05-21",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2025-05-27",
@@ -66,6 +83,7 @@
     {
         "judul": "Our Unwritten Seoul S1",
         "tahun": 2025,
+        "rilis": "2025-05-24",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2025-07-14",
@@ -75,6 +93,7 @@
     {
         "judul": "Pluribus S1",
         "tahun": 2025,
+        "rilis": "2025-11-06",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2025-11-12",
@@ -85,6 +104,7 @@
     {
         "judul": "Takopi's Original Sin S1",
         "tahun": 2025,
+        "rilis": "2025-06-28",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2025-08-02",
@@ -94,6 +114,7 @@
     {
         "judul": "The Trauma Code: Heroes on Call S1",
         "tahun": 2025,
+        "rilis": "2025-01-24",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2025-02-07",
@@ -103,6 +124,7 @@
     {
         "judul": "Dune: Part Two",
         "tahun": 2024,
+        "rilis": "2024-02-28",
         "tipe": "film",
         "rating": 9,
         "ditonton": "2024-04-15",
@@ -112,6 +134,7 @@
     {
         "judul": "Look Back",
         "tahun": 2024,
+        "rilis": "2024-07-31",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2024-11-13",
@@ -121,6 +144,7 @@
     {
         "judul": "The Wild Robot",
         "tahun": 2024,
+        "rilis": "2024-10-11",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2024-10-18",
@@ -130,6 +154,7 @@
     {
         "judul": "Dandadan S1",
         "tahun": 2024,
+        "rilis": "2024-10-04",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2024-11-01",
@@ -139,6 +164,7 @@
     {
         "judul": "Delicious in Dungeon S1",
         "tahun": 2024,
+        "rilis": "2024-01-04",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2024-02-17",
@@ -158,6 +184,7 @@
     {
         "judul": "Marry My Husband S1",
         "tahun": 2024,
+        "rilis": "2024-01-01",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2024-01-23",
@@ -167,6 +194,7 @@
     {
         "judul": "Orb: On the Movements of the Earth S1",
         "tahun": 2024,
+        "rilis": "2024-10-05",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2024-12-14",
@@ -176,6 +204,7 @@
     {
         "judul": "Secret Level S1",
         "tahun": 2024,
+        "rilis": "2024-12-10",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2024-12-17",
@@ -185,6 +214,7 @@
     {
         "judul": "Solo Leveling S1",
         "tahun": 2024,
+        "rilis": "2024-01-07",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2024-02-11",
@@ -194,6 +224,7 @@
     {
         "judul": "Godzilla Minus One",
         "tahun": 2023,
+        "rilis": "2023-11-01",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2024-05-03",
@@ -203,6 +234,7 @@
     {
         "judul": "Jatuh Cinta Seperti di Film-Film",
         "tahun": 2023,
+        "rilis": "2023-11-30",
         "tipe": "film",
         "rating": 10,
         "ditonton": "2024-03-29",
@@ -210,8 +242,19 @@
         "review": "Scene motor galon memang terbaik 👍"
     },
     {
+        "judul": "Mission: Impossible - Dead Reckoning",
+        "tahun": 2023,
+        "rilis": "2023-06-19",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-10-20",
+        "poster": "https://image.tmdb.org/t/p/w500/tyuBWhADudiwYY5po8YLrJmI46R.jpg",
+        "review": ""
+    },
+    {
         "judul": "Perfect Days",
         "tahun": 2023,
+        "rilis": "2023-11-16",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2024-05-17",
@@ -221,6 +264,7 @@
     {
         "judul": "Frieren: Beyond Journey's End S1",
         "tahun": 2023,
+        "rilis": "2023-09-29",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2023-12-08",
@@ -230,6 +274,7 @@
     {
         "judul": "ONE PIECE S1",
         "tahun": 2023,
+        "rilis": "2023-08-31",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2023-08-31",
@@ -239,6 +284,7 @@
     {
         "judul": "Revenant S1",
         "tahun": 2023,
+        "rilis": "2023-06-23",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2023-07-08",
@@ -248,6 +294,7 @@
     {
         "judul": "Twinkling Watermelon S1",
         "tahun": 2023,
+        "rilis": "2023-09-25",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2023-10-17",
@@ -257,6 +304,7 @@
     {
         "judul": "Zom 100: Bucket List of the Dead S1",
         "tahun": 2023,
+        "rilis": "2023-07-09",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2023-08-27",
@@ -266,6 +314,7 @@
     {
         "judul": "Bocchi The Rock! S1",
         "tahun": 2022,
+        "rilis": "2022-10-09",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2023-03-12",
@@ -275,6 +324,7 @@
     {
         "judul": "The Eminence in Shadow S1",
         "tahun": 2022,
+        "rilis": "2022-10-05",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2022-12-07",
@@ -284,6 +334,7 @@
     {
         "judul": "Twenty Five Twenty One S1",
         "tahun": 2022,
+        "rilis": "2022-02-12",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2022-04-12",
@@ -293,6 +344,7 @@
     {
         "judul": "Dune",
         "tahun": 2021,
+        "rilis": "2021-10-22",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2021-10-07",
@@ -302,6 +354,7 @@
     {
         "judul": "Spider-Man: No Way Home",
         "tahun": 2021,
+        "rilis": "2021-12-15",
         "tipe": "film",
         "rating": 9,
         "ditonton": "2021-12-15",
@@ -320,8 +373,19 @@
         "review": "Worth to watch and rewatch."
     },
     {
+        "judul": "Tenet",
+        "tahun": 2020,
+        "rilis": "2020-08-22",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2020-12-04",
+        "poster": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+        "review": ""
+    },
+    {
         "judul": "A Rainy Day in New York",
         "tahun": 2019,
+        "rilis": "2019-07-26",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2025-11-10",
@@ -332,9 +396,10 @@
     {
         "judul": "Avengers: Endgame",
         "tahun": 2019,
+        "rilis": "2019-04-24",
         "tipe": "film",
         "rating": 9,
-        "ditonton": "2019-04-24",
+        "ditonton": "2019-05-14",
         "poster": "https://image.tmdb.org/t/p/w500/b55H5YuXFPyiCmjDIliFf6EhlUl.jpg",
         "review": "Baru ngikutin Marvel pas Avengers: Age of Ultron. Jadi, 4 tahun yang sangat menyenangkan."
     },
@@ -351,6 +416,7 @@
     {
         "judul": "Shin Godzilla",
         "tahun": 2016,
+        "rilis": "2016-08-24",
         "tipe": "film",
         "rating": 7,
         "ditonton": "2024-01-04",
@@ -360,6 +426,7 @@
     {
         "judul": "Tomorrow I Will Date with Yesterday's You",
         "tahun": 2016,
+        "rilis": "2016-12-17",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2020-07-19",
@@ -369,6 +436,7 @@
     {
         "judul": "Your Name.",
         "tahun": 2016,
+        "rilis": "2016-12-07",
         "tipe": "film",
         "rating": 9,
         "ditonton": "2017-07-25",
@@ -378,6 +446,7 @@
     {
         "judul": "Erased S1",
         "tahun": 2016,
+        "rilis": "2016-01-08",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2016-03-25",
@@ -398,6 +467,7 @@
     {
         "judul": "Begin Again",
         "tahun": 2014,
+        "rilis": "2014-04-26",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2016-08-09",
@@ -427,6 +497,7 @@
     {
         "judul": "Interstellar",
         "tahun": 2014,
+        "rilis": "2014-11-06",
         "tipe": "film",
         "rating": 10,
         "ditonton": "2015-04-02",
@@ -447,6 +518,7 @@
         "judul": "Marvel's Agents of S.H.I.E.L.D. S1-S5",
         "tahun": 2013,
         "tamat": 2018,
+        "rilis": "2013-09-24",
         "tipe": "series",
         "rating": 7,
         "ditonton": "2018-05-18",
@@ -456,6 +528,7 @@
     {
         "judul": "Inception",
         "tahun": 2010,
+        "rilis": "2010-07-16",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2013-03-01",
@@ -466,6 +539,7 @@
         "judul": "Sherlock Series",
         "tahun": 2010,
         "tamat": 2017,
+        "rilis": "2010-07-25",
         "tipe": "series",
         "rating": 9,
         "ditonton": "2017-01-15",
@@ -475,6 +549,7 @@
     {
         "judul": "Angels & Demons",
         "tahun": 2009,
+        "rilis": "2009-04-20",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2025-04-25",
@@ -485,6 +560,7 @@
     {
         "judul": "The Man from Earth",
         "tahun": 2007,
+        "rilis": "2007-06-10",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2020-07-13",
@@ -494,6 +570,7 @@
     {
         "judul": "Linda Linda Linda",
         "tahun": 2005,
+        "rilis": "2005-07-23",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2024-10-19",
@@ -503,6 +580,7 @@
     {
         "judul": "The Bourne Identity",
         "tahun": 2002,
+        "rilis": "2002-09-25",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2025-10-30",
@@ -525,6 +603,7 @@
         "judul": "One Piece Series",
         "tahun": 1999,
         "tamat": "now",
+        "rilis": "1999-10-20",
         "tipe": "series",
         "rating": 10,
         "ditonton": "2022-06-21",
@@ -536,6 +615,7 @@
         "judul": "Detective Conan Series",
         "tahun": 1996,
         "tamat": "now",
+        "rilis": "1996-01-08",
         "tipe": "series",
         "rating": 10,
         "ditonton": "2025-08-05",
@@ -546,6 +626,7 @@
     {
         "judul": "Whisper of the Heart",
         "tahun": 1995,
+        "rilis": "1995-07-15",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2024-11-07",
@@ -555,6 +636,7 @@
     {
         "judul": "Chungking Express",
         "tahun": 1994,
+        "rilis": "1994-07-14",
         "tipe": "film",
         "rating": 9,
         "ditonton": "2022-11-30",
@@ -564,6 +646,7 @@
     {
         "judul": "Jurassic Park",
         "tahun": 1993,
+        "rilis": "1993-06-09",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2025-10-17",
@@ -573,6 +656,7 @@
     {
         "judul": "Back to the Future",
         "tahun": 1985,
+        "rilis": "1985-06-29",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2020-10-31",
