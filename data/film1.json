@@ -322,12 +322,23 @@
         "review": "Aku Kessoku Band!"
     },
     {
-        "judul": "The Eminence in Shadow S1",
+        "judul": "Cyberpunk: Edgerunners",
         "tahun": 2022,
+        "rilis": "2022-09-13",
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2022-09-13",
+        "poster": "https://image.tmdb.org/t/p/w500/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
+        "review": "Series-nya bagus banget. Tapi nggak mau nonton lagi."
+    },
+    {
+        "judul": "The Eminence in Shadow S1-S2",
+        "tahun": 2022,
+        "tamat": 2023,
         "rilis": "2022-10-05",
         "tipe": "series",
         "rating": 8,
-        "ditonton": "2022-12-07",
+        "ditonton": "2023-12-20",
         "poster": "https://image.tmdb.org/t/p/w500/2iDbkljgNVARndA9dVD9zcbuItd.jpg",
         "review": ""
     },
@@ -411,7 +422,7 @@
         "rating": 8,
         "ditonton": "2018-07-03",
         "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-        "review": ""
+        "review": "Mimpi basah para nerd."
     },
     {
         "judul": "Shin Godzilla",
@@ -462,7 +473,7 @@
         "rating": 10,
         "ditonton": "2022-07-30",
         "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
-        "review": ""
+        "review": "Kalau dulu Stranger Things nggak rilis di Netflix, mungkin Netflix nggak bakalan sebesar sekarang."
     },
     {
         "judul": "Begin Again",
@@ -523,7 +534,7 @@
         "rating": 7,
         "ditonton": "2018-05-18",
         "poster": "https://image.tmdb.org/t/p/w500/8faSWCAW6Zd4zJ7Hp11WdlOkKJE.jpg",
-        "review": "Awalnya mau tamat di season 5, malah ngide lanjut lagi."
+        "review": "Sebenarnya tamat di season 7, tapi anggap aja cuma 5. Season terbaik ada di season 4."
     },
     {
         "judul": "Inception",

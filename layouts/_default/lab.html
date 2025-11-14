@@ -1,3 +1,48 @@
 <!doctype html>
 <html>
+
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body>
+
+<nav class="bg-white shadow">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex justify-between">
+
+      <!-- Logo -->
+      <div class="flex space-x-4">
+        <a href="/" class="flex items-center py-5 px-2 text-gray-700 font-bold">
+          MySite
+        </a>
+      </div>
+
+      <!-- Burger Button (checkbox trick) -->
+      <div class="md:hidden flex items-center">
+        <input id="menu-toggle" type="checkbox" class="peer hidden" />
+        <label for="menu-toggle" class="cursor-pointer">
+          <!-- Icon -->
+          <svg class="w-6 h-6 text-gray-700" fill="none" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round"
+              d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </label>
+      </div>
+
+      <!-- Menu Items -->
+      <div
+        class="hidden peer-checked:block md:flex space-x-6 items-center peer-checked:absolute peer-checked:top-16 peer-checked:left-0 peer-checked:w-full peer-checked:bg-white peer-checked:px-4 peer-checked:pb-4">
+        <a href="/" class="block py-2 text-gray-700">Home</a>
+        <a href="/blog" class="block py-2 text-gray-700">Blog</a>
+        <a href="/about" class="block py-2 text-gray-700">About</a>
+      </div>
+
+    </div>
+  </div>
+</nav>
+
+
+</body>
+
 </html>

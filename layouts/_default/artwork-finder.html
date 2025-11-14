@@ -5,13 +5,15 @@
 {{ partial "head.html" . }}
 </head>
 
-<body class="min-h-screen flex flex-col p-2">
+<body class="min-h-screen flex flex-col">
 
-<header>
-{{ partial "header.html" . }}
+<header class="w-full">
+<div class="bg-black">
+<div class="max-w-3xl mx-auto">
+{{ partial "navbar-overflow.html" . }}</div></div>
 </header>
 
-  <div class="font-sans mx-auto w-full max-w-3xl mt-4 flex-grow">
+  <div class="font-sans mx-auto w-full max-w-3xl mt-4 flex-grow p-2">
   <p class="text-xl font-bold my-2" >Apple Music Artwork Finder</p>
     
   <div class="mx-auto w-full">

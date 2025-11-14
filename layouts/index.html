@@ -5,14 +5,17 @@
 {{ partial "head.html" . }}
 </head>
 
-<body class="min-h-screen flex flex-col bg-[url(/src/img/bg.png)] p-2">
+<body class="min-h-screen flex flex-col bg-[url(/src/img/bg.png)]">
 
-<div class="flex-grow">
-<header>
-    {{ partial "header.html" . }}
+<header class="w-full">
+<div class="bg-black">
+<div class="max-w-3xl mx-auto">
+{{ partial "navbar-overflow.html" . }}</div></div>
 </header>
 
-<main class="mt-4">
+<div class="flex-grow p-2">
+
+<main class="mt-2">
 <!-- start grid -->
 <div class="grid grid-cols-1 md:grid-cols-3 max-w-3xl mx-auto gap-0 md:gap-2">
 
@@ -50,11 +53,6 @@ allowfullscreen></iframe></div>
 </main>
 </div>
 <!-- end grid -->
-
-<div class="border-[3px] w-full max-w-3xl mx-auto rounded-md mt-4 border-zinc-900 p-2 bg-white">
-<h1 class="font-orbitron font-bold text-lg">Guestbook</h1>
-<iframe class="w-full"
-src="https://guestbooks.meadow.cafe/guestbook/18" height="400" frameborder="0"></iframe></div>
 
 </div>
 
