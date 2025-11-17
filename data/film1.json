@@ -242,6 +242,16 @@
         "review": "Scene motor galon memang terbaik 👍"
     },
     {
+        "judul": "Missing",
+        "tahun": 2023,
+        "rilis": "2023-01-20",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2023-03-07",
+        "poster": "https://image.tmdb.org/t/p/w500/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
+        "review": ""
+    },
+    {
         "judul": "Mission: Impossible - Dead Reckoning",
         "tahun": 2023,
         "rilis": "2023-06-19",
@@ -316,7 +326,7 @@
         "tahun": 2022,
         "rilis": "2022-10-09",
         "tipe": "series",
-        "rating": 8,
+        "rating": 9,
         "ditonton": "2023-03-12",
         "poster": "https://image.tmdb.org/t/p/w500/eUjkj2WhTOuuVguUySQauOMCE1u.jpg",
         "review": "Aku Kessoku Band!"
@@ -343,6 +353,26 @@
         "review": ""
     },
     {
+        "judul": "Extraordinary Attorney Woo S1",
+        "tahun": 2022,
+        "rilis": "2022-06-29",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2022-08-18",
+        "poster": "https://image.tmdb.org/t/p/w500/aqmd0okt7J0whlgevfCbVmX2DmH.jpg",
+        "review": ""
+    },
+    {
+        "judul": "The Glory S1",
+        "tahun": 2022,
+        "rilis": "2022-12-30",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2023-03-10",
+        "poster": "https://image.tmdb.org/t/p/w500/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+        "review": "Pembalasan dendam yang sangat mantap."
+    },
+    {
         "judul": "Twenty Five Twenty One S1",
         "tahun": 2022,
         "rilis": "2022-02-12",
@@ -361,6 +391,26 @@
         "ditonton": "2021-10-07",
         "poster": "https://image.tmdb.org/t/p/w500/lr3cYNDlJcpT1EWzFH42aSIvkab.jpg",
         "review": ""
+    },
+    {
+        "judul": "Free Guy",
+        "tahun": 2021,
+        "rilis": "2021-08-13",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2021-09-24",
+        "poster": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Space Sweepers",
+        "tahun": 2021,
+        "rilis": "2021-02-05",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2021-02-05",
+        "poster": "https://image.tmdb.org/t/p/w500/1e1tUWInXCVrrwY6ntuNRuwEj7P.jpg",
+        "review": "Guardians of the Galaxy + Elysium = Space Sweepers."
     },
     {
         "judul": "Spider-Man: No Way Home",
@@ -415,6 +465,38 @@
         "review": "Baru ngikutin Marvel pas Avengers: Age of Ultron. Jadi, 4 tahun yang sangat menyenangkan."
     },
     {
+        "judul": "Parasite",
+        "tahun": 2019,
+        "rilis": "2019-06-24",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2019-11-29",
+        "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Demon Slayer Series",
+        "tahun": 2019,
+        "tamat": "now",
+        "rilis": "2019-04-06",
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2023-06-18",
+        "poster": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+        "review": "Cerita sederhana tapi eksekusinya bagus, ya bagus. Buat apa cerita keren tapi eksekusi jelek."
+    },
+    {
+        "judul": "Love, Death & Robots Series",
+        "tahun": 2019,
+        "tamat": " ",
+        "rilis": "2019-03-15",
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2025-05-15",
+        "poster": "https://image.tmdb.org/t/p/w500/asDqvkE66EegtKJJXIRhBJPxscr.jpg",
+        "review": ""
+    },
+    {
         "judul": "Ready Player One",
         "tahun": 2018,
         "rilis": "2018-03-28",
@@ -422,7 +504,17 @@
         "rating": 8,
         "ditonton": "2018-07-03",
         "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-        "review": "Mimpi basah para nerd."
+        "review": "Bagus banget banyak cameo juga."
+    },
+    {
+        "judul": "Searching",
+        "tahun": 2018,
+        "rilis": "2018-08-24",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2018-11-22",
+        "poster": "https://image.tmdb.org/t/p/w500/pk9R56ZFlofbBzfwBnHlDyg5DMs.jpg",
+        "review": ""
     },
     {
         "judul": "Shin Godzilla",
@@ -474,6 +566,28 @@
         "ditonton": "2022-07-30",
         "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
         "review": "Kalau dulu Stranger Things nggak rilis di Netflix, mungkin Netflix nggak bakalan sebesar sekarang."
+    },
+    {
+        "judul": "12 Monkeys Series",
+        "tahun": 2015,
+        "tamat": 2018,
+        "rilis": "2015-01-16",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2018-07-12",
+        "poster": "https://image.tmdb.org/t/p/w500/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+        "review": "Yang suka tontonan time travel, dystopian future, tonton ini."
+    },
+    {
+        "judul": "Overlord Series",
+        "tahun": 2015,
+        "tamat": "now",
+        "rilis": "2015-07-07",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2022-09-27",
+        "poster": "https://image.tmdb.org/t/p/w500/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+        "review": ""
     },
     {
         "judul": "Begin Again",
@@ -576,7 +690,7 @@
         "rating": 8,
         "ditonton": "2020-07-13",
         "poster": "https://image.tmdb.org/t/p/w500/V086R82gNgWrotaXZFO4JhdgB1.jpg",
-        "review": "Cuman ngobrol di ruang tamu, tapi kok ya seru."
+        "review": "Cuman ngobrol di ruang tamu, tapi kok seru."
     },
     {
         "judul": "Linda Linda Linda",
@@ -608,7 +722,7 @@
         "rating": 8,
         "ditonton": "2025-08-05",
         "poster": "https://image.tmdb.org/t/p/w500/qx5x7HRP0MrSBx6N3QJFXpMrbWB.jpg",
-        "review": "Tontonlah trilogi masterpiece ini, setidaknya sekali seumur hidup."
+        "review": "Tontonlah trilogi masterpiece ini minimal sekali seumur hidup."
     },
     {
         "judul": "One Piece Series",
@@ -655,6 +769,16 @@
         "review": "Kita bersinggungan dengan begitu banyak orang setiap hari. Suatu saat, kita akan menemukan seseorang yang membuat kita berhenti."
     },
     {
+        "judul": "The Shawshank Redemption",
+        "tahun": 1994,
+        "rilis": "1994-09-13",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2021-09-15",
+        "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "review": "Rasanya beruntung banget nonton ini tanpa kena spoiler duluan."
+    },
+    {
         "judul": "Jurassic Park",
         "tahun": 1993,
         "rilis": "1993-06-09",
@@ -665,13 +789,14 @@
         "review": "Baru nonton ini di tahun 2025, masih sangat layak ditonton."
     },
     {
-        "judul": "Back to the Future",
+        "judul": "Back to the Future Trilogy",
         "tahun": 1985,
+        "tamat": 1990,
         "rilis": "1985-06-29",
         "tipe": "film",
         "rating": 8,
         "ditonton": "2020-10-31",
-        "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/9QxdDIx5PYZ7wX7hyXN2p3GtaG1.jpg",
         "review": "Nonton ini gara-gara video klip Muse - Pressure."
     }
 ]
