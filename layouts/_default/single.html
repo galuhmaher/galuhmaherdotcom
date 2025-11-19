@@ -1,13 +1,12 @@
 {{ define "main" }}
-<div class="container max-w-3xl mx-auto bg-white
-border-[1px] border-zinc-300 rounded-md mt-2 p-2">
-  <h1 class="text-3xl md:text-4xl font-bold mt-4 mb-4">{{ .Title }}</h1>
+<div class="container w-full max-w-3xl mx-auto bg-white md:mt-4 mb-4 md:border-x-[1px] md:border-t-[1px] border-b-[1px] border-zinc-300">
+  <h1 class="text-3xl font-bold p-2 pt-6 pb-4">{{ .Title }}</h1>
 
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <div class="mb-8 italic font-inter"><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></div>
+  <div class="mb-8 font-inter px-2 text-sm"><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></div>
 
-  <div class="konten font-figtree text-base">
+  <div class="konten font-figtree text-base p-2">
   {{ .Content }}
   </div>
 

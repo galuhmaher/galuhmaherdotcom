@@ -5,21 +5,18 @@
 {{ partial "head.html" . }}
 </head>
 
-<body class="min-h-screen flex flex-col bg-[url(/src/img/bg.png)]">
+<body class="min-h-screen flex flex-col bg-white">
 
-<div class="flex-grow">
 
 <header class="w-full bg-black">
 <div class="max-w-3xl mx-auto">{{ partial "navbar-overflow.html" . }}</div>
 </header>
 
-  <main class="p-2">
+  <main class="flex-grow">
       {{ block "main" . }}{{ end }}
   </main>
 
 {{ partial "footer.html" . }}
-
-</div>
 
 </body>
 </html>

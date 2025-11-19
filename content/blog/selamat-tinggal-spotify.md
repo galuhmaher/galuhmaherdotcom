@@ -1,10 +1,13 @@
 ---
 title: "Selamat Tinggal Spotify Premium"
-date: "2025-10-10T16:00:00+07:00"
+date: "2025-04-18T16:00:00+07:00"
 type: "blog"
 draft: false
 slug: "selamat-tinggal-spotify"
+featured_image: "/src/img/pexels-mcraftpix-21022.jpg"
 ---
+![music](/src/img/pexels-mcraftpix-21022.jpg)
+
 Akhirnya saya yakin berhenti langganan Spotify Premium. Ada beberapa penyebab kenapa saya berhenti.
 
 **Pertama,** ketika saya memakai Spotify, saya mengalami "Paradox of Choice". Bingung mau dengar lagu apa karena banyak pilihan, tapi ketika sudah memilih satu lagu, tidak ada rasa puas ketika dengerin lagunya. Akhirnya, satu lagu belum selesai sudah ganti ke lagu lain. Masalah ini tidak pernah saya alami ketika masih download lagu bajakan.

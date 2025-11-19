@@ -1,9 +1,10 @@
 ---
 title: "Aplikasi Wajib di HP saya"
-date: "2025-10-10T15:32:46+07:00"
+date: "2025-04-30T15:32:46+07:00"
 type: "blog"
 draft: false
 slug: "aplikasi-wajib-di-hp"
+featured_image: "/src/img/pexels-deyvi-romero-15310-89955.jpg"
 ---
 Terinspirasi dari postingan default apps para warga Bear Blog seperti [postingan ini](https://linkage.lol/default-apps-for-2024/), jadi saya pengen juga membuatnya. Biar nanti kalau beli HP baru nggak lupa harus install apa. Berikut ini adalah aplikasi wajib di HP saya :
 
