@@ -6,6 +6,8 @@ draft: false
 slug: "aplikasi-wajib-di-hp"
 featured_image: "/src/img/pexels-deyvi-romero-15310-89955.jpg"
 ---
+![app](/src/img/pexels-deyvi-romero-15310-89955.jpg)
+
 Terinspirasi dari postingan default apps para warga Bear Blog seperti [postingan ini](https://linkage.lol/default-apps-for-2024/), jadi saya pengen juga membuatnya. Biar nanti kalau beli HP baru nggak lupa harus install apa. Berikut ini adalah aplikasi wajib di HP saya :
 
 <!--more-->

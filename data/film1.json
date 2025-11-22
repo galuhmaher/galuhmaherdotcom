@@ -1,5 +1,15 @@
 [
     {
+        "judul": "Doraemon The Movie: Nobita's Art World Tales",
+        "tahun": 2025,
+        "rilis": "2025-07-16",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2025-11-20",
+        "poster": "https://image.tmdb.org/t/p/w500/tf7NQJ4zL8iCN1aPi8Q5HHyeWSO.jpg",
+        "review": "Kalau untuk Doraemon penilaianku subjektif banget. Buatku, movie Doraemon bagus semua. Tapi yang spesial dari movie ini, art-style-nya beda."
+    },
+    {
         "judul": "F1: The Movie",
         "tahun": 2025,
         "rilis": "2025-06-25",
@@ -99,7 +109,7 @@
         "ditonton": "2025-11-12",
         "status": "ongoing",
         "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-        "review": "Premisnya menarik. Baru rilis 2 episode."
+        "review": "E pluribus unum. Dari banyak menjadi satu."
     },
     {
         "judul": "Takopi's Original Sin S1",
@@ -474,6 +484,26 @@
         "review": "Worth to watch and rewatch."
     },
     {
+        "judul": "What If...? S1",
+        "tahun": 2021,
+        "rilis": "2021-08-11",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2021-10-06",
+        "poster": "https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+        "review": ""
+    },
+    {
+        "judul": "Stand by Me Doraemon 2",
+        "tahun": 2020,
+        "rilis": "2020-11-20",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2021-04-17",
+        "poster": "https://image.tmdb.org/t/p/w500/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+        "review": ""
+    },
+    {
         "judul": "Tenet",
         "tahun": 2020,
         "rilis": "2020-08-22",
@@ -595,7 +625,7 @@
         "ditonton": "2025-11-18",
         "status": "rewatch",
         "poster": "https://image.tmdb.org/t/p/w500/8tE4MhhuWHize6pNyxAtakUyNZc.jpg",
-        "review": ""
+        "review": "Ji Chang-wook di sini lebih beruntung daripada Ji Chang-wook di The Manipulated."
     },
     {
         "judul": "Shin Godzilla",
@@ -711,6 +741,16 @@
         "review": "Interstellar overrated? Lah bodo amat, tetep film terbaik bro."
     },
     {
+        "judul": "Stand by Me Doraemon",
+        "tahun": 2014,
+        "rilis": "2014-12-10",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2017-05-02",
+        "poster": "https://image.tmdb.org/t/p/w500/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg",
+        "review": ""
+    },
+    {
         "judul": "Pacific Rim",
         "tahun": 2013,
         "rilis": "2013-07-12",
@@ -762,6 +802,17 @@
         "status": "rewatch",
         "poster": "https://image.tmdb.org/t/p/w500/hrvNVd0GDeytbDhduWa3SFKmg4A.jpg",
         "review": "Awal mula saya tertarik sama cerita-cerita konspirasi illuminati."
+    },
+    {
+        "judul": "The Bourne Ultimatum",
+        "tahun": 2007,
+        "rilis": "2007-08-03",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-11-02",
+        "status": "rewatch",
+        "poster": "https://image.tmdb.org/t/p/w500/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
+        "review": ""
     },
     {
         "judul": "The Man from Earth",
@@ -827,6 +878,16 @@
         "status": "ongoing",
         "poster": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
         "review": "Mulai nonton dari episode 1. Awalnya ngantuk banget, baru nge-hook pas ada Poneglyph."
+    },
+    {
+        "judul": "The Truman Show",
+        "tahun": 1998,
+        "rilis": "1998-06-05",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-08-13",
+        "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+        "review": ""
     },
     {
         "judul": "Detective Conan Series",
