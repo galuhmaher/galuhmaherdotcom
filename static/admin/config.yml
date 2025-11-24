@@ -3,7 +3,7 @@ backend:
   repo: galuhmaher/galuhmaherdotcom
   branch: main
   auth_type: implicit
-  app_id: 4ad14ac7cdd88760a51f
+  app_id: Ov23liRScSGN2D3AoG09
 
 media_folder: "static/src/img"
 public_folder: "src/img"

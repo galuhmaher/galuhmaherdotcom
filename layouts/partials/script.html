@@ -18,7 +18,7 @@ function loadRSS() {
         return categories.includes("status");
       });
 
-      // AMBIL 3 TERATAS
+      // AMBIL 1 TERATAS
       const top3 = statusPosts.slice(0, 1);
 
       let html = "";
@@ -35,7 +35,7 @@ function loadRSS() {
 
         html += `
           <div>
-            <strong><a href="https://galuhmaher.bearblog.dev" target="_blank">Galuh Maher</a></strong> — ${date}
+            <a class="font-bold" href="https://galuhmaher.bearblog.dev">Galuh Maher</a> — ${date}
             <p>${desc}</p>
           </div>
         `;
@@ -52,6 +52,6 @@ function loadRSS() {
 // JALANKAN SEKALI SAAT PERTAMA LOAD
 loadRSS();
 
-// AUTO-REFRESH SETIAP 2 MENIT
-setInterval(loadRSS, 120000);
+// AUTO-REFRESH SETIAP 10 MENIT
+setInterval(loadRSS, 600000);
 </script>
