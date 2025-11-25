@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body class="min-h-screen flex flex-col bg-[url(/src/img/bg.png)]">
+
+<div class="flex-grow">
+
+<header class="w-full">
+<div class="bg-black">
+<div class="max-w-3xl mx-auto">
+{{ partial "navbar-overflow.html" . }}</div></div>
+</header>
+
+<div class="p-2">
+<iframe class="max-w-3xl mx-auto bg-white p-2 rounded-md border-[1px] border-zinc-300 mt-2"
+src="https://guestbooks.meadow.cafe/guestbook/18"
+width="100%" height="500" frameborder="0"></iframe></div></div>
+
+{{ partial "footer.html" . }}
+</body>

@@ -1,0 +1,55 @@
+backend:
+  name: github
+  repo: galuhmaher/galuhmaherdotcom
+  branch: main
+  site_domain: https://galuhmaher.com
+  base_url: https://galuhmaher.com
+  auth_endpoint: /api/auth
+
+media_folder: "static/src/img"
+public_folder: "src/img"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Type", name: "type", widget: "hidden", default: "blog" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "redirect"
+    label: "Redirect"
+    folder: "content/redirect"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "string", default: "redirect" }
+      - { label: "Redirect", name: "redirect", widget: "string" }
+      - { label: "Timer (detik)", name: "waktu", widget: "number" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "page"
+    label: "Page"
+    folder: "content/page"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    path: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "hidden", default: "page" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
