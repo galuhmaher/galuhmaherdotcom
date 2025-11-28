@@ -1,5 +1,5 @@
 .artwork-finder {
-    #results {
+  #results {
     margin: 10px 0;
     max-width: 100%;
   }
@@ -20,11 +20,58 @@
 }
 
 .yt-embet {
-    aspect-ratio: 16 / 9;
-  }
+  aspect-ratio: 16 / 9;
+}
 
 .teleget iframe {
-    width: 100%;
-    max-width: auto;
-    margin: 10px 0;
+  width: 100%;
+  max-width: auto;
+  margin: 10px 0;
+}
+
+#statuscafe-content a {
+  text-decoration: underline #FF3D00;
+}
+
+.konten {
+  ul {
+    list-style-position: outside;
+    list-style-type: square;
+    margin: 0.8em 0;
+    padding-left: 1.25em;
+  }
+
+  li {
+    display: list-item;
+    unicode-bidi: isolate;
+  }
+
+  a {
+    text-decoration: underline #FF3D00;
+  }
+
+  a:hover {
+    color: #FF3D00;
+  }
+
+  p {
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
+    line-height: 1.5em;
+  }
+
+  img {
+    margin: 0.5em auto;
+    max-height: 80vh;
+    border-radius: 0.375rem;
+  }
+
+  h1, h2, h3 {
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
 }
