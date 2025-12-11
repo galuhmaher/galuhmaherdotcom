@@ -1,0 +1,38 @@
+{{ $films := site.Data.film1 }}
+{{ $tonton := sort $films "ditonton" "desc" }}
+
+<div class="bg-gray-50 border-[1px] border-gray-400 rounded-lg mx-auto p-2">
+{{ range first 1 $tonton }}
+<div class="bg-gray-50 rounded-lg flex flex-row">
+
+<div class="basis-1/3"><div class="place-items-center overflow-hidden">
+<img class="h-full rounded-lg"
+    src="{{ .poster }}" alt="{{ .judul }}" loading="lazy"></div></div>
+
+<div class="basis-full px-2">
+    {{ if .url }}
+<a class="underline" href="{{ .url }}">
+<span class="inline text-lg md:text-xl font-bold">{{ .judul }}</span></a>
+{{ else }}
+<span class="inline text-lg md:text-xl font-bold">{{ .judul }}</span>
+{{ end }}
+
+{{ if .tamat }}
+<span class="inline text-lg md:text-xl font-bold">({{ .tahun }}-{{ .tamat }})</span>
+{{ else }}
+<span class="inline text-lg md:text-xl font-bold">({{ .tahun }})</span>
+{{ end }}
+
+<span class="inline text-sm">—&nbsp;♥️{{ .rating }}/10</span>
+<span class="block font-figtree text-base mt-2">{{ .review }}</span>
+
+{{ if .status }}
+<span class="block text-xs mt-2 text-right">{{ .status }} — {{ (time .ditonton).Format "02 Jan 2006" }}</span>
+{{ else }}
+<span class="block text-xs mt-2 text-right">{{ (time .ditonton).Format "02 Jan 2006" }}</span>
+{{ end }}
+</div>
+
+</div>
+{{ end }}
+</div>

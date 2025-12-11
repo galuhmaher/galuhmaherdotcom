@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body class="w-full min-h-screen bg-white">
+<div class="bg-[url(/src/img/bg.png)]">
+
+<div class="w-full max-w-lg min-h-screen mx-auto p-4">
+
+<a href="/"><img class="mx-auto w-full h-auto hover:bg-zinc-200" src="/src/img/galuhmaher-header.webp" /></a>
+      
+<p class="font-medium text-center text-base p-2">Follow My Social Platform</p>  
+{{ partial "social.html" . }}
+
+{{ range .Params.links }}
+<a class="block bg-zinc-900 rounded-md hover:bg-[#FF3D00] focus:bg-[#FF3D00] active:bg-[#FF3D00]
+border-4 border-zinc-900 text-white text-center text-base p-2 my-3"
+href="{{ .url }}">{{ .name }}</a>
+{{ end }}
+
+  <div class="border-4 overflow-hidden my-3"><iframe class="aspect-video"
+    src="https://www.youtube.com/embed/JIEDR9dn1FY?si=teICowK4GYy-lPv4"
+    frameborder="0" allowfullscreen></iframe></div>
+
+  <iframe src="https://open.spotify.com/embed/album/4UZAHeqeKsq4EcL6iaNVx7?utm_source=generator&theme=0"
+  width="100%" height="152" frameBorder="0" allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+</iframe>
+
+  </div>
+
+{{ partial "footer.html" . }}
+
+</div>
+</body>
+</html>

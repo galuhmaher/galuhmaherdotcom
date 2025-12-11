@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body class="w-full bg-gray-50">
+
+{{ partial "header-home.html" . }}
+
+<h1 class="font-grandstander w-full max-w-3xl mx-auto
+font-bold text-xl px-2 md:p-0 mt-4">Visit My Other Blog</h1>
+<div class="flex flex-row w-full max-w-3xl mx-auto gap-2 px-2 md:p-0 mt-2">
+
+<a class="w-full basis-1/2 block bg-gray-900 rounded-md
+border-4 border-zinc-900 text-white text-center text-base p-2"
+href="https://galuhmaher.bearblog.dev">Bearblog</a>
+
+<a class="w-full basis-1/2 block bg-gray-900 rounded-md
+border-4 border-zinc-900 text-white text-center text-base p-2"
+href="https://galuhmaher.blogspot.com">Blogspot</a>
+
+</div>
+
+<!-- youtube -->
+<div class="w-full max-w-3xl font-figtree mx-auto my-6 px-2 md:p-0" >
+<h1 class="font-grandstander font-bold text-xl pb-2">Listen to My Song</h1>
+<iframe class="aspect-video rounded-lg w-full"
+src="https://www.youtube.com/embed/JIEDR9dn1FY?si=teICowK4GYy-lPv4" frameborder="0"
+allowfullscreen></iframe></div>
+<!-- end youtube -->
+
+<div class="flex flex-col md:flex-row w-full max-w-3xl mx-auto gap-4">
+
+<div class="w-full basis-1/2 px-2 md:p-0">
+<a class="underline" href="/watchlist"><h1 class="font-grandstander font-bold text-xl">Last Watched</h1></a>
+{{ partial "watch-part.html" . }}
+</div>
+
+<div class="w-full basis-1/2 px-2 md:p-0">
+<h1 class="font-grandstander font-bold text-xl">Recent Status</h1>
+<div class="bg-gray-50 border-[2px] border-gray-900 mx-auto p-2">
+{{ partial "status-part.html" . }}
+</div></div>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

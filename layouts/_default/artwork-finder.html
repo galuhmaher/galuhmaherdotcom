@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  
+<head>
+{{ partial "head.html" . }}
+</head>
+
+<body class="artwork-finder min-h-screen flex flex-col bg-gray-50">
+
+{{ partial "header-overflow.html" . }}
+
+  <div class="font-sans mx-auto w-full max-w-3xl mt-2 flex-grow p-2">
+  <p class="text-xl font-bold my-2" >Apple Music Artwork Finder</p>
+    
+  <div class="mx-auto w-full">
+    <form action="" method="get" accept-charset="utf-8" id="apple-music">
+      <input class="w-full my-1 px-1 py-0.5 border-2 border-zinc-950 rounded-sm block" type="text" class="text" name="url" id="url" placeholder="Apple Music URL for album, playlist, station, artist, music video, or curator." />
+      <input class="w-fit my-1 px-2 py-1 border-0 bg-gradient-to-t from-rose-600 to-rose-500 text-white rounded-sm" type="submit" value="Get the artwork" />
+    </form>
+    <div class="w-full max-w-full text-lg mb-4" id="results">
+    </div>
+  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/src/js/apple-music-2023-09-25.js"></script>
+  </div>
+
+  </div>
+
+{{ partial "footer.html" . }}
+
+</body>
+</html>

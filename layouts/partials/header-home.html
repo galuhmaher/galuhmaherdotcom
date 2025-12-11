@@ -1,0 +1,24 @@
+<header class="w-full bg-gray-50 border-b-2 border-gray-900">
+<div class="flex flex-col md:flex-row justify-between md:items-center w-full max-w-7xl mx-auto">
+
+{{ if .IsHome}}
+  <span class="font-grandstander font-bold text-xl text-nowrap text-center md:text-left
+mt-2 md:mt-0 px-2">Galuhmaher.com</span>
+{{ else }}
+<a class="font-grandstander font-bold text-xl text-nowrap text-center md:text-left
+mt-2 md:mt-0 px-2"
+  href="/">Galuhmaher.com</a>
+{{ end }}
+
+  <nav class="font-figtree overflow-x-auto">
+    <ul class="flex flex-row whitespace-nowrap justify-start sm:justify-end">
+    <li class="hover:bg-gray-300"><a class="block p-2" href="/blog">BLOG</a></li>
+    <li class="hover:bg-gray-300"><a class="block p-2" href="/about">ABOUT</a></li>
+    <li class="hover:bg-gray-300"><a class="block p-2" href="/now">NOW</a></li>
+    <li class="hover:bg-gray-300"><a class="block p-2" href="/links">LINKS</a></li>
+    <li class="hover:bg-gray-300"><a class="block p-2" href="/watchlist">WATCHLIST</a></li>
+</ul>
+</nav>
+
+</div>
+</header>

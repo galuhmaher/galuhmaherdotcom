@@ -7,7 +7,7 @@
         "rating": 9,
         "ditonton": "2025-11-20",
         "poster": "https://image.tmdb.org/t/p/w500/tf7NQJ4zL8iCN1aPi8Q5HHyeWSO.jpg",
-        "review": "Kalau untuk Doraemon penilaianku subjektif banget. Buatku, movie Doraemon bagus semua. Tapi yang spesial dari movie ini, art-style-nya beda."
+        "review": "Nggak seperti Movie Doraemon yang sebelumnya, yang ini art-style-nya beda."
     },
     {
         "judul": "F1: The Movie",
@@ -65,7 +65,7 @@
         "rilis": "2025-08-23",
         "tipe": "series",
         "rating": 8,
-        "ditonton": "2025-09-24",
+        "ditonton": "2025-09-29",
         "poster": "https://image.tmdb.org/t/p/w500/xnDFKpPeANnUaRmlNev4LBXogvb.jpg",
         "review": "Jangan nonton ini di tengah malam. Niscaya kamu akan ke dapur dan memasak Indomie."
     },
@@ -75,8 +75,7 @@
         "rilis": "2025-11-05",
         "tipe": "series",
         "rating": 8,
-        "ditonton": "2025-11-05",
-        "status": "ongoing",
+        "ditonton": "2025-12-03",
         "poster": "https://image.tmdb.org/t/p/w500/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
         "review": "Ji Chang-wook difitnah lagi? Oke menarik."
     },
@@ -106,8 +105,7 @@
         "rilis": "2025-11-06",
         "tipe": "series",
         "rating": 9,
-        "ditonton": "2025-11-12",
-        "status": "ongoing",
+        "ditonton": "2025-12-05",
         "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
         "review": "E pluribus unum. Dari banyak menjadi satu."
     },
@@ -190,6 +188,16 @@
         "ditonton": "2024-04-12",
         "poster": "https://image.tmdb.org/t/p/w500/72pwtciNntcsj6X24PHUHlKIyzq.jpg",
         "review": ""
+    },
+    {
+        "judul": "Let This Grieving Soul Retire S1",
+        "tahun": 2024,
+        "rilis": "2024-10-01",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-12-08",
+        "poster": "https://image.tmdb.org/t/p/w500/egViTAdBqUyUFI2sIBsGbnH5Sun.jpg",
+        "review": "Semoga makin banyak anime salah paham kayak gini."
     },
     {
         "judul": "Light Shop S1",
@@ -324,6 +332,7 @@
     {
         "judul": "ONE PIECE S1",
         "tahun": 2023,
+        "tamat": " ",
         "rilis": "2023-08-31",
         "tipe": "series",
         "rating": 8,
@@ -410,7 +419,7 @@
         "rating": 8,
         "ditonton": "2023-03-10",
         "poster": "https://image.tmdb.org/t/p/w500/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
-        "review": "Pembalasan dendam yang sangat mantap."
+        "review": "Sebagai pecinta cerita balas dendam, ini okelah."
     },
     {
         "judul": "Twenty Five Twenty One S1",
@@ -473,6 +482,16 @@
         "review": "Bagus banget. Tapi saya nggak suka rasionya 4:3."
     },
     {
+        "judul": "Godzilla Singular Point S1",
+        "tahun": 2021,
+        "rilis": "2021-04-01",
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2025-12-07",
+        "poster": "https://image.tmdb.org/t/p/w500/Kb3E8h6acRUNMo9mWAkcC0m9B8.jpg",
+        "review": "Sering mencet rewind 10 detik, karena banyak istilah sains."
+    },
+    {
         "judul": "Loki Series",
         "tahun": 2021,
         "tamat": 2023,
@@ -522,7 +541,7 @@
         "ditonton": "2025-11-10",
         "status": "rewatch",
         "poster": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
-        "review": "Suka banget, walaupun rating di IMDb cuma ⭐6.4/10. Cozy vibe, calming. Cocok ditonton ketika hujan di sore hari."
+        "review": "Suka banget, walaupun rating di IMDb cuma ⭐6.4/10. Cozy vibe, calming. Cocok ditonton ketika hujan, seperti judulnya."
     },
     {
         "judul": "Avengers: Endgame",
@@ -557,7 +576,7 @@
     {
         "judul": "Demon Slayer Series",
         "tahun": 2019,
-        "tamat": "now",
+        "tamat": " ",
         "rilis": "2019-04-06",
         "tipe": "series",
         "rating": 9,
@@ -566,9 +585,9 @@
         "review": "Cerita sederhana tapi eksekusinya bagus, ya bagus. Buat apa cerita keren tapi eksekusi jelek."
     },
     {
-        "judul": "Love, Death & Robots Series",
+        "judul": "Love, Death & Robots S1-S4",
         "tahun": 2019,
-        "tamat": " ",
+        "tamat": 2025,
         "rilis": "2019-03-15",
         "tipe": "series",
         "rating": 9,
@@ -628,6 +647,16 @@
         "review": "Ji Chang-wook di sini lebih beruntung daripada Ji Chang-wook di The Manipulated."
     },
     {
+        "judul": "One Cut of the Dead",
+        "tahun": 2017,
+        "rilis": "2017-11-04",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2024-12-02",
+        "poster": "https://image.tmdb.org/t/p/w500/3mzJ76DXAnZv4bVjg3RXB3fwqf2.jpg",
+        "review": "🤯"
+    },
+    {
         "judul": "Shin Godzilla",
         "tahun": 2016,
         "rilis": "2016-08-24",
@@ -670,13 +699,13 @@
     {
         "judul": "Stranger Things Series",
         "tahun": 2016,
-        "tamat": "now",
+        "tamat": 2025,
         "rilis": "2016-07-15",
         "tipe": "series",
         "rating": 10,
         "ditonton": "2025-11-27",
         "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
-        "review": "Kalau dulu Stranger Things nggak rilis di Netflix, mungkin Netflix nggak bakalan sebesar sekarang."
+        "review": "Mulai ngikutin pas di season 2 (2017), masih belum rela series ini mau tamat 😢."
     },
     {
         "judul": "12 Monkeys Series",
@@ -692,7 +721,7 @@
     {
         "judul": "Overlord Series",
         "tahun": 2015,
-        "tamat": "now",
+        "tamat": " ",
         "rilis": "2015-07-07",
         "tipe": "series",
         "rating": 8,
@@ -726,7 +755,7 @@
         "rilis": "2014-05-27",
         "tipe": "film",
         "rating": 8,
-        "ditonton": "2025-10-31",
+        "ditonton": "2025-10-30",
         "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
         "review": ""
     },
@@ -851,7 +880,7 @@
         "rilis": "2002-09-25",
         "tipe": "film",
         "rating": 8,
-        "ditonton": "2025-10-30",
+        "ditonton": "2025-10-31",
         "status": "rewatch",
         "poster": "https://image.tmdb.org/t/p/w500/mItrJfDAiMiRlb6eXAccT65jUIs.jpg",
         "review": "Ketika udah lupa ceritanya, berarti saatnya rewatch."
@@ -870,7 +899,7 @@
     {
         "judul": "One Piece Series",
         "tahun": 1999,
-        "tamat": "now",
+        "tamat": " ",
         "rilis": "1999-10-20",
         "tipe": "series",
         "rating": 10,
@@ -887,12 +916,12 @@
         "rating": 8,
         "ditonton": "2025-08-13",
         "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-        "review": ""
+        "review": "Good morning! and in case I don't see ya, good afternoon, good evening, and good night!"
     },
     {
         "judul": "Detective Conan Series",
         "tahun": 1996,
-        "tamat": "now",
+        "tamat": " ",
         "rilis": "1996-01-08",
         "tipe": "series",
         "rating": 10,

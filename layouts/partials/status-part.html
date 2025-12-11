@@ -1,0 +1,7 @@
+{{ $latest := first 1 (sort .Site.Data.status.statuses "date" "desc") }}
+{{ with index $latest 0 }}
+<span class="font-figtree font-bold text-base">galuhmaher</span>
+<time class="text-sm text-gray-600">{{ (time .date).Format "02/01/06" }}</time>
+<p class="prose text-gray-900">{{ .teks | markdownify }}</p>
+</div>
+{{ end }}

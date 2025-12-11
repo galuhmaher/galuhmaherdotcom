@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container w-full max-w-3xl mx-auto bg-gray-50">
+  <h1 class="font-grandstander text-3xl font-bold p-4 pt-6 pb-2">{{ .Title }}</h1>
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  <div class="px-4 font-grandstander text-base text-red-500"><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></div>
+
+  <div class="konten prose font-figtree text-base text-[#333] leading-relaxed p-4">
+  {{ .Content }}
+  </div>
+
+</div>
+{{ end }}
