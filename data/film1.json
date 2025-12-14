@@ -80,6 +80,16 @@
         "review": "Ji Chang-wook difitnah lagi? Oke menarik."
     },
     {
+        "judul": "My Gift Lvl 9999 Unlimited Gacha S1",
+        "tahun": 2025,
+        "rilis": "2025-10-03",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-12-12",
+        "poster": "https://image.tmdb.org/t/p/w500/pGNBYEae87H8iLRF3AoztonnZkp.jpg",
+        "review": "MC yang nggak naif dan mau balas dendam selalu menarik untuk ditonton."
+    },
+    {
         "judul": "Nine Puzzles S1",
         "tahun": 2025,
         "rilis": "2025-05-21",
@@ -105,7 +115,7 @@
         "rilis": "2025-11-06",
         "tipe": "series",
         "rating": 9,
-        "ditonton": "2025-12-05",
+        "ditonton": "2025-12-12",
         "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
         "review": "E pluribus unum. Dari banyak menjadi satu."
     },
@@ -192,10 +202,11 @@
     {
         "judul": "Let This Grieving Soul Retire S1",
         "tahun": 2024,
+        "tamat": 2025,
         "rilis": "2024-10-01",
         "tipe": "series",
         "rating": 8,
-        "ditonton": "2025-12-08",
+        "ditonton": "2025-12-13",
         "poster": "https://image.tmdb.org/t/p/w500/egViTAdBqUyUFI2sIBsGbnH5Sun.jpg",
         "review": "Semoga makin banyak anime salah paham kayak gini."
     },
@@ -479,7 +490,7 @@
         "rating": 9,
         "ditonton": "2021-03-18",
         "poster": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
-        "review": "Bagus banget. Tapi saya nggak suka rasionya 4:3."
+        "review": "Ini filmnya kalo nggak hitam putih dan rasio 4:3, udah kuberi rating 11/10."
     },
     {
         "judul": "Godzilla Singular Point S1",
@@ -552,6 +563,16 @@
         "ditonton": "2019-05-14",
         "poster": "https://image.tmdb.org/t/p/w500/b55H5YuXFPyiCmjDIliFf6EhlUl.jpg",
         "review": "Baru ngikutin Marvel pas Avengers: Age of Ultron. Jadi, 4 tahun yang sangat menyenangkan."
+    },
+    {
+        "judul": "Joker",
+        "tahun": 2019,
+        "rilis": "2019-10-02",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2019-12-17",
+        "poster": "https://image.tmdb.org/t/p/w500/mZuAPY4ETMQPHhCXIcJ90kd6RaS.jpg",
+        "review": "Orang jahat terlahir dari orang baik yang tersakyty."
     },
     {
         "judul": "Parasite",

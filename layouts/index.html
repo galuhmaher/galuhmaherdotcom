@@ -34,16 +34,26 @@ allowfullscreen></iframe></div>
 <div class="flex flex-col md:flex-row w-full max-w-3xl mx-auto gap-4">
 
 <div class="w-full basis-1/2 px-2 md:p-0">
-<a class="underline" href="/watchlist"><h1 class="font-grandstander font-bold text-xl">Last Watched</h1></a>
+<a class="underline" href="/watchlist"><h1 class="font-grandstander font-bold text-xl">Recently Watched</h1></a>
 {{ partial "watch-part.html" . }}
+
 </div>
 
 <div class="w-full basis-1/2 px-2 md:p-0">
+<a class="underline" href="https://www.last.fm/user/galuhmaher" target="_blank">
+    <h1 class="font-grandstander font-bold text-xl">Recently Played</h1></a>
+<div class="w-full mx-auto font-figtree font-bold
+border-[1px] border-gray-400 rounded-lg p-2 mb-4">
+<script src="/src/js/recentfm.js?u=galuhmaher&e=📻"></script>
+</div>
+
 <h1 class="font-grandstander font-bold text-xl">Recent Status</h1>
 <div class="bg-gray-50 border-[2px] border-gray-900 mx-auto p-2">
 {{ partial "status-part.html" . }}
-</div></div>
+</div>
+</div>
 
 {{ partial "footer.html" . }}
+
 </body>
 </html>
