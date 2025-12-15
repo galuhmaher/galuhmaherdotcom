@@ -2,7 +2,11 @@ statuses:
   - date: 2025-12-10T12:10:00+07:00
     teks: Mulai hari ini saya membuat status ala status.cafe di website sendiri
       saja. Pakai file yaml.
-  - date: 2025-12-11T14:30:00.000Z
+  - date: 2025-12-11T14:30:00+07:00
     teks: Gitarku hampir seminggu dirawat inap 😮‍💨
-  - date: 2025-12-14T19:30:00.000Z
+  - date: 2025-12-14T19:30:00+07:00
     teks: Tambah Recently Played Last.fm di Home.
+  - date: 2025-12-15T19:00:00+07:00
+    teks: Ubah bg di /links jadi background fixed.
+  - date: 2025-12-15T20:00:00+07:00
+    teks: Melihat berita akhir-akhir ini, pendapatku masih sama. +62 ini nggak ketolong. Dari atas sampe bawah busuk semua.
