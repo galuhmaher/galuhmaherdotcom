@@ -1,5 +1,15 @@
 [
     {
+        "judul": "Detective Conan: One-Eyed Flashback",
+        "tahun": 2025,
+        "rilis": "2025-04-18",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-12-18",
+        "poster": "https://image.tmdb.org/t/p/w500/1wl6eAHbIDSz61tGwYTOKlSRvZb.jpg",
+        "review": ""
+    },
+    {
         "judul": "Doraemon The Movie: Nobita's Art World Tales",
         "tahun": 2025,
         "rilis": "2025-07-16",
@@ -60,6 +70,16 @@
         "review": ""
     },
     {
+        "judul": "Wake Up Dead Man: A Knives Out Mystery",
+        "tahun": 2025,
+        "rilis": "2025-12-12",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2025-12-17",
+        "poster": "https://image.tmdb.org/t/p/w500/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "review": "Mantap. Lebih bagus daripada film ke-2."
+    },
+    {
         "judul": "Bon Appétit, Your Majesty S1",
         "tahun": 2025,
         "rilis": "2025-08-23",
@@ -87,7 +107,7 @@
         "rating": 8,
         "ditonton": "2025-12-12",
         "poster": "https://image.tmdb.org/t/p/w500/pGNBYEae87H8iLRF3AoztonnZkp.jpg",
-        "review": "MC yang nggak naif dan mau balas dendam selalu menarik untuk ditonton."
+        "review": "Anime dibuang dari guild harusnya gini, balas dendam."
     },
     {
         "judul": "Nine Puzzles S1",
@@ -115,7 +135,7 @@
         "rilis": "2025-11-06",
         "tipe": "series",
         "rating": 9,
-        "ditonton": "2025-12-12",
+        "ditonton": "2025-12-19",
         "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
         "review": "E pluribus unum. Dari banyak menjadi satu."
     },
@@ -534,7 +554,7 @@
         "review": ""
     },
     {
-        "judul": "Tenet",
+        "judul": "TENƎꓕ",
         "tahun": 2020,
         "rilis": "2020-08-22",
         "tipe": "film",
@@ -634,7 +654,7 @@
         "rating": 8,
         "ditonton": "2018-07-03",
         "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-        "review": "Bagus banget banyak cameo juga."
+        "review": "Kapan ya ada game VR seperti ini di dunia nyata?"
     },
     {
         "judul": "Searching",
@@ -695,7 +715,7 @@
         "rating": 8,
         "ditonton": "2020-07-19",
         "poster": "https://image.tmdb.org/t/p/w500/wBKCW5Ct3FCkpaWAgJpR4HDOPuO.jpg",
-        "review": "Film patah hati terdalamku 💔"
+        "review": "Bayangkan ketika kamu ditakdirkan bertemu, tapi tidak ditakdirkan bersama 💔"
     },
     {
         "judul": "Your Name.",
@@ -915,6 +935,17 @@
         "rating": 8,
         "ditonton": "2025-08-05",
         "poster": "https://image.tmdb.org/t/p/w500/qx5x7HRP0MrSBx6N3QJFXpMrbWB.jpg",
+        "review": "Tontonlah trilogi masterpiece ini minimal sekali seumur hidup."
+    },
+    {
+        "judul": "Spider-Man Trilogy",
+        "tahun": 2002,
+        "tamat": 2007,
+        "rilis": "2002-05-22",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2009-05-22",
+        "poster": "https://image.tmdb.org/t/p/w500/2QFOLSlntyt2n4ReF5MrKX3phub.jpg",
         "review": "Tontonlah trilogi masterpiece ini minimal sekali seumur hidup."
     },
     {
