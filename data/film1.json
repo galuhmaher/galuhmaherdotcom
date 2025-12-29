@@ -80,6 +80,16 @@
         "review": "Mantap. Lebih bagus daripada film ke-2."
     },
     {
+        "judul": "A Wild Last Boss Appeared! S1",
+        "tahun": 2025,
+        "rilis": "2025-10-04",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-12-21",
+        "poster": "https://image.tmdb.org/t/p/w500/xh9lu8gDgzwMBiByTRtTsclluZf.jpg",
+        "review": "Nambah anime isekai yang seru.."
+    },
+    {
         "judul": "Bon Appétit, Your Majesty S1",
         "tahun": 2025,
         "rilis": "2025-08-23",
@@ -105,9 +115,9 @@
         "rilis": "2025-10-03",
         "tipe": "series",
         "rating": 8,
-        "ditonton": "2025-12-12",
+        "ditonton": "2025-12-20",
         "poster": "https://image.tmdb.org/t/p/w500/pGNBYEae87H8iLRF3AoztonnZkp.jpg",
-        "review": "Anime dibuang dari guild harusnya gini, balas dendam."
+        "review": "Awalnya lemah, jadi overpower. Balas dendam. Auto nonton."
     },
     {
         "judul": "Nine Puzzles S1",
@@ -135,7 +145,7 @@
         "rilis": "2025-11-06",
         "tipe": "series",
         "rating": 9,
-        "ditonton": "2025-12-19",
+        "ditonton": "2025-12-23",
         "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
         "review": "E pluribus unum. Dari banyak menjadi satu."
     },
@@ -217,6 +227,16 @@
         "rating": 8,
         "ditonton": "2024-04-12",
         "poster": "https://image.tmdb.org/t/p/w500/72pwtciNntcsj6X24PHUHlKIyzq.jpg",
+        "review": ""
+    },
+    {
+        "judul": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S1",
+        "tahun": 2024,
+        "rilis": "2024-04-02",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-09-25",
+        "poster": "https://image.tmdb.org/t/p/w500/nSDLxsuSgZC0Kn5GkAiXzjtqCzB.jpg",
         "review": ""
     },
     {
@@ -339,6 +359,16 @@
         "ditonton": "2024-05-17",
         "poster": "https://image.tmdb.org/t/p/w500/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
         "review": "Kondo wa kondo, ima wa ima. Nanti ya nanti, sekarang ya sekarang."
+    },
+    {
+        "judul": "Campfire Cooking in Another World with My Absurd Skill S1",
+        "tahun": 2023,
+        "rilis": "2023-01-11",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2025-12-30",
+        "poster": "https://image.tmdb.org/t/p/w500/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
+        "review": "Cozy anime dari Mappa. Coloring-nya bagus."
     },
     {
         "judul": "Frieren: Beyond Journey's End S1",
@@ -744,7 +774,7 @@
         "rilis": "2016-07-15",
         "tipe": "series",
         "rating": 10,
-        "ditonton": "2025-11-27",
+        "ditonton": "2025-12-26",
         "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
         "review": "Mulai ngikutin pas di season 2 (2017), masih belum rela series ini mau tamat 😢."
     },
@@ -874,6 +904,16 @@
         "review": "Awal mula saya tertarik sama cerita-cerita konspirasi illuminati."
     },
     {
+        "judul": "Midnight Diner S1",
+        "tahun": 2009,
+        "rilis": "2009-10-09",
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2024-05-20",
+        "poster": "https://image.tmdb.org/t/p/w500/9LnEf7LjkfJGyIRekyNVgvTCJtr.jpg",
+        "review": "Setelah nonton Angkringan (2021), terus baca review ternyata terinspirasi dari sini."
+    },
+    {
         "judul": "The Bourne Ultimatum",
         "tahun": 2007,
         "rilis": "2007-08-03",
@@ -925,6 +965,16 @@
         "status": "rewatch",
         "poster": "https://image.tmdb.org/t/p/w500/mItrJfDAiMiRlb6eXAccT65jUIs.jpg",
         "review": "Ketika udah lupa ceritanya, berarti saatnya rewatch."
+    },
+    {
+        "judul": "Catch Me If You Can",
+        "tahun": 2002,
+        "rilis": "2002-12-16",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2025-12-20",
+        "poster": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+        "review": ""
     },
     {
         "judul": "The Lord of the Rings Trilogy",
