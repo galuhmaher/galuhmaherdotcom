@@ -87,7 +87,7 @@
         "rating": 8,
         "ditonton": "2025-12-21",
         "poster": "https://image.tmdb.org/t/p/w500/xh9lu8gDgzwMBiByTRtTsclluZf.jpg",
-        "review": "Nambah anime isekai yang seru.."
+        "review": ""
     },
     {
         "judul": "Bon Appétit, Your Majesty S1",
@@ -232,12 +232,13 @@
     {
         "judul": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability S1",
         "tahun": 2024,
+        "tamat": 2025,
         "rilis": "2024-04-02",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2025-09-25",
         "poster": "https://image.tmdb.org/t/p/w500/nSDLxsuSgZC0Kn5GkAiXzjtqCzB.jpg",
-        "review": ""
+        "review": "Animasinya battle-nya bagus cuy.."
     },
     {
         "judul": "Let This Grieving Soul Retire S1",
@@ -361,14 +362,15 @@
         "review": "Kondo wa kondo, ima wa ima. Nanti ya nanti, sekarang ya sekarang."
     },
     {
-        "judul": "Campfire Cooking in Another World with My Absurd Skill S1",
+        "judul": "Campfire Cooking in Another World with My Absurd Skill S1-S2",
         "tahun": 2023,
+        "tamat": 2025,
         "rilis": "2023-01-11",
         "tipe": "series",
         "rating": 8,
         "ditonton": "2025-12-30",
         "poster": "https://image.tmdb.org/t/p/w500/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
-        "review": "Cozy anime dari Mappa. Coloring-nya bagus."
+        "review": "Anime dari Mappa visualnya selalu terbaik. Bahkan untuk anime cozy seperti ini."
     },
     {
         "judul": "Frieren: Beyond Journey's End S1",
@@ -770,13 +772,13 @@
     {
         "judul": "Stranger Things Series",
         "tahun": 2016,
-        "tamat": 2025,
+        "tamat": 2026,
         "rilis": "2016-07-15",
         "tipe": "series",
         "rating": 10,
-        "ditonton": "2025-12-26",
+        "ditonton": "2026-01-01",
         "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
-        "review": "Mulai ngikutin pas di season 2 (2017), masih belum rela series ini mau tamat 😢."
+        "review": "Mulai ngikutin pas di season 2 (2017), belum rela series ini tamat 😢."
     },
     {
         "judul": "12 Monkeys Series",
