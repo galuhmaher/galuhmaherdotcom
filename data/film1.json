@@ -1,5 +1,15 @@
 [
     {
+        "judul": "The Judge Returns S1",
+        "tahun": 2026,
+        "rilis": "2026-01-02",
+        "tipe": "series",
+        "rating": 9,
+        "ditonton": "2026-02-14",
+        "poster": "https://image.tmdb.org/t/p/original/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
+        "review": "Mulai episode 2 baru bagus."
+    },
+    {
         "judul": "Detective Conan: One-Eyed Flashback",
         "tahun": 2025,
         "rilis": "2025-04-18",
@@ -70,6 +80,16 @@
         "review": ""
     },
     {
+        "judul": "Sore: Istri dari Masa Depan",
+        "tahun": 2025,
+        "rilis": "2025-07-10",
+        "tipe": "film",
+        "rating": 9,
+        "ditonton": "2026-01-08",
+        "poster": "https://image.tmdb.org/t/p/w500/u4pNXPmBuYeTtksakUCZgJ1zpSB.jpg",
+        "review": "Kenapa senja selalu menyenangkan. Kadang dia hitam, kelam. Kadang dia merah merekah. Tapi langit selalu menerima apa adanya."
+    },
+    {
         "judul": "Wake Up Dead Man: A Knives Out Mystery",
         "tahun": 2025,
         "rilis": "2025-12-12",
@@ -87,7 +107,7 @@
         "rating": 8,
         "ditonton": "2025-12-21",
         "poster": "https://image.tmdb.org/t/p/w500/xh9lu8gDgzwMBiByTRtTsclluZf.jpg",
-        "review": ""
+        "review": "Mending nonton anime isekai kayak gini daripada One Punch Man Season 3."
     },
     {
         "judul": "Bon Appétit, Your Majesty S1",
@@ -117,7 +137,7 @@
         "rating": 8,
         "ditonton": "2025-12-20",
         "poster": "https://image.tmdb.org/t/p/w500/pGNBYEae87H8iLRF3AoztonnZkp.jpg",
-        "review": "Awalnya lemah, jadi overpower. Balas dendam. Auto nonton."
+        "review": ""
     },
     {
         "judul": "Nine Puzzles S1",
@@ -238,7 +258,7 @@
         "rating": 8,
         "ditonton": "2025-09-25",
         "poster": "https://image.tmdb.org/t/p/w500/nSDLxsuSgZC0Kn5GkAiXzjtqCzB.jpg",
-        "review": "Animasinya battle-nya bagus cuy.."
+        "review": "Battle scene-nya bagus. Byutipul."
     },
     {
         "judul": "Let This Grieving Soul Retire S1",
@@ -381,6 +401,16 @@
         "ditonton": "2023-12-08",
         "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
         "review": "Sebuah pengingat yang bagus. Tentang betapa terbatasnya waktu."
+    },
+    {
+        "judul": "Monarch: Legacy of Monsters S1",
+        "tahun": 2023,
+        "rilis": "2023-11-16",
+        "tipe": "series",
+        "rating": 8,
+        "ditonton": "2026-01-06",
+        "poster": "https://image.tmdb.org/t/p/w500/dfubk23s5rqjh9TEfLp86YuboLT.jpg",
+        "review": "Lebih bagus daripada film-filmnya yang cuman monster berantem."
     },
     {
         "judul": "Moving S1",
@@ -778,7 +808,7 @@
         "rating": 10,
         "ditonton": "2026-01-01",
         "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
-        "review": "Mulai ngikutin pas di season 2 (2017), belum rela series ini tamat 😢."
+        "review": "Mulai ngikutin di tahun 2017, pas season 2 rilis. Belum rela kalo series ini beneran tamat 😢."
     },
     {
         "judul": "12 Monkeys Series",
@@ -851,6 +881,17 @@
         "ditonton": "2017-05-02",
         "poster": "https://image.tmdb.org/t/p/w500/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg",
         "review": ""
+    },
+    {
+        "judul": "Cold Eyes",
+        "tahun": 2013,
+        "rilis": "2013-07-03",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2026-01-02",
+        "status": "rewatch",
+        "poster": "https://image.tmdb.org/t/p/w500/77Srq9bAJkB1RE1GBAyBA9Y6ivN.jpg",
+        "review": "Rewatch ini gara-gara The Shadow's Edge-nya Jackie Chan."
     },
     {
         "judul": "Pacific Rim",

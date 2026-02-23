@@ -4,24 +4,27 @@ type: page
 draft: false
 slug: now
 ---
-Last Update : **2 November 2025**  
+Last Update : **22 Februari 2026**  
 Location : **Indonesia**
 
 ## Project
 
-**[Galuhmaher.com](https://galuhmaher.com)** adalah website utama saya. Rencananya mau dibuat ala indieweb gitu pake hugo + tailwindcss. Tapi laptop lagi error.
+**Website [galuhmaher.com](https://galuhmaher.com)**  
+Ini adalah website utama saya. Berfungsi sebagai penghubung ke seluruh jejak-jejak saya di internet, yaitu media sosial dan blog yang saya punya. Dibuat menggunakan hugo + tailwindcss. 
 
-**Lari santai pagi atau sore.** Minimal 3x/minggu, terserah berapa jaraknya, yang penting bergerak selama 1 jam. Semoga bisa konsisten.
+**Lari Santai Pagi dan Sore.**  
+Minimal 3x/minggu, terserah berapa jaraknya, yang penting bergerak minimal 1/2 jam. Semoga bisa konsisten.
 
 <!--more-->
 
 ## Watching
 
-**Sejak 2018,** memulai misi **hanya** menonton film dan series yang memenuhi salah satu kriteria ini :
+**Hanya Menonton Film Bagus**  
+Sejak 2018, saya memulai misi **hanya** menonton film dan series yang memenuhi salah satu kriteria ini :
 
-* Rating IMDb minimal 7/10
+* Rating di IMDb minimal 7.0
 * Masuk nominasi Oscar
-* Saya excited nonton
+* Saya penasaran pengen nonton
 
 Sampai hari ini walaupun sudah di-filter seperti itu, tetap saja banyak watchlist yang belum ditonton.  
 

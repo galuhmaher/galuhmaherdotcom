@@ -14,11 +14,11 @@ font-bold text-xl px-2 md:p-0 mt-4">Visit My Other Blog</h1>
 <div class="flex flex-row w-full max-w-3xl mx-auto gap-2 px-2 md:p-0 mt-2">
 
 <a class="w-full basis-1/2 block bg-gray-900 rounded-md
-border-4 border-zinc-900 text-white text-center text-base p-2"
+border-4 border-zinc-900 text-white text-center text-base p-2 hover:bg-gray-500 focus:bg-gray-500 active:bg-gray-500"
 href="https://galuhmaher.bearblog.dev">Bearblog</a>
 
 <a class="w-full basis-1/2 block bg-gray-900 rounded-md
-border-4 border-zinc-900 text-white text-center text-base p-2"
+border-4 border-zinc-900 text-white text-center text-base p-2 hover:bg-gray-500 focus:bg-gray-500 active:bg-gray-500"
 href="https://galuhmaher.blogspot.com">Blogspot</a>
 
 </div>
@@ -34,14 +34,14 @@ allowfullscreen></iframe></div>
 <div class="flex flex-col md:flex-row w-full max-w-3xl mx-auto gap-4">
 
 <div class="w-full basis-1/2 px-2 md:p-0">
-<a class="underline" href="/watchlist"><h1 class="font-grandstander font-bold text-xl">Recently Watched</h1></a>
+<a href="/watchlist"><h1 class="font-grandstander font-bold text-xl hover:underline focus:underline active:underline">Recently Watched</h1></a>
 {{ partial "watch-part.html" . }}
 
 </div>
 
 <div class="w-full basis-1/2 px-2 md:p-0">
-<a class="underline" href="https://www.last.fm/user/galuhmaher" target="_blank">
-    <h1 class="font-grandstander font-bold text-xl">Recently Played</h1></a>
+<a href="https://www.last.fm/user/galuhmaher" target="_blank">
+    <h1 class="font-grandstander font-bold text-xl hover:underline focus:underline active:underline">Recently Played</h1></a>
 <div class="w-full mx-auto font-figtree font-bold
 border-[1px] border-gray-400 rounded-lg p-2 mb-4">
 <script src="/src/js/recentfm.js?u=galuhmaher"></script>
