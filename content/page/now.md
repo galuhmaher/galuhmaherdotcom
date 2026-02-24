@@ -10,7 +10,7 @@ Location : **Indonesia**
 ## Project
 
 **Website [galuhmaher.com](https://galuhmaher.com)**  
-Ini adalah website utama saya. Berfungsi sebagai penghubung ke seluruh jejak-jejak saya di internet, yaitu media sosial dan blog yang saya punya. Dibuat menggunakan hugo + tailwindcss. 
+Ini adalah website utama saya. Berfungsi sebagai penghubung ke seluruh jejak digital saya di internet, seperti media sosial dan blog. Dibuat menggunakan hugo + tailwindcss. 
 
 **Lari Santai Pagi dan Sore.**  
 Minimal 3x/minggu, terserah berapa jaraknya, yang penting bergerak minimal 1/2 jam. Semoga bisa konsisten.
