@@ -227,7 +227,7 @@
         "rating": 8,
         "ditonton": "2024-11-01",
         "poster": "https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
-        "review": "Kok bisa ada orang kepikiran bikin cerita yang masalah utamanya bijinya diambil hantu."
+        "review": "Kok bisa ya ada orang kepikiran bikin cerita yang masalah utamanya bijinya diambil hantu."
     },
     {
         "judul": "Delicious in Dungeon S1",
@@ -299,7 +299,7 @@
         "rating": 9,
         "ditonton": "2024-12-14",
         "poster": "https://image.tmdb.org/t/p/w500/crV1eBtpI5F4nlMwzrBrh4zZuFV.jpg",
-        "review": "10% rating dari review ini diberikan kepada Potocki."
+        "review": "Sebenarnya saya kasih rating 10/10, tapi dipotong 10% untuk Potocki."
     },
     {
         "judul": "Secret Level S1",
@@ -423,14 +423,14 @@
         "review": ""
     },
     {
-        "judul": "ONE PIECE S1",
+        "judul": "ONE PIECE S1-S2",
         "tahun": 2023,
-        "tamat": " ",
+        "tamat": 2026,
         "rilis": "2023-08-31",
         "tipe": "series",
-        "rating": 8,
-        "ditonton": "2023-08-31",
-        "poster": "https://image.tmdb.org/t/p/w500/78qPWmEUp0YzJmHk0A7DXy52vvK.jpg",
+        "rating": 9,
+        "ditonton": "2026-03-13",
+        "poster": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
         "review": "In Oda-sensei we trust."
     },
     {
@@ -522,7 +522,7 @@
         "rating": 9,
         "ditonton": "2022-04-12",
         "poster": "https://image.tmdb.org/t/p/w500/w4AIY8FDdNyL5kvamdNHPq5KdM4.jpg",
-        "review": "Meski terlambat, selamat atas pernikahanmu Na Hee-do."
+        "review": "Suka sama nuansa 90an-nya. Nyewa komik, dengerin lagu pakai walkman, telpon umum, dll."
     },
     {
         "judul": "Dune",
@@ -542,7 +542,7 @@
         "rating": 8,
         "ditonton": "2021-09-24",
         "poster": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
-        "review": ""
+        "review": "Suka banget sama POV third person-nya."
     },
     {
         "judul": "Space Sweepers",
@@ -634,7 +634,7 @@
         "ditonton": "2025-11-10",
         "status": "rewatch",
         "poster": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
-        "review": "Suka banget, walaupun rating di IMDb cuma ⭐6.4/10. Cozy vibe, calming. Cocok ditonton ketika hujan, seperti judulnya."
+        "review": "Suka banget, walaupun rating di IMDb cuma ⭐6.4/10. Cozy vibe, calming. Cocok ditonton ketika hujan, sesuai judulnya."
     },
     {
         "judul": "Avengers: Endgame",
@@ -654,7 +654,7 @@
         "rating": 8,
         "ditonton": "2019-12-17",
         "poster": "https://image.tmdb.org/t/p/w500/mZuAPY4ETMQPHhCXIcJ90kd6RaS.jpg",
-        "review": "Orang jahat terlahir dari orang baik yang tersakyty."
+        "review": "Orang jahat terlahir dari orang baik yang tersakitty."
     },
     {
         "judul": "Parasite",
@@ -685,7 +685,7 @@
         "rating": 9,
         "ditonton": "2023-06-18",
         "poster": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
-        "review": "Cerita sederhana tapi eksekusinya bagus, ya bagus. Buat apa cerita keren tapi eksekusi jelek."
+        "review": "Demon Slayer adalah definisi cerita simple, eksekusi masterpiece."
     },
     {
         "judul": "Love, Death & Robots S1-S4",
@@ -706,7 +706,7 @@
         "rating": 8,
         "ditonton": "2018-04-25",
         "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-        "review": "Inget banget dulu keluar dari bioskop semuanya sunyi, speechless."
+        "review": "Inget banget waktu itu keluar dari bioskop sunyi, semua yang nonton speechless."
     },
     {
         "judul": "Ready Player One",
@@ -840,7 +840,7 @@
         "rating": 8,
         "ditonton": "2016-08-09",
         "poster": "https://image.tmdb.org/t/p/w500/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
-        "review": "Keira Knightley ♥️♥️"
+        "review": "Singkat saja, Keira Knightley ♥️♥️"
     },
     {
         "judul": "Captain America: The Winter Soldier",
@@ -1124,6 +1124,6 @@
         "rating": 8,
         "ditonton": "2020-10-31",
         "poster": "https://image.tmdb.org/t/p/w500/9QxdDIx5PYZ7wX7hyXN2p3GtaG1.jpg",
-        "review": "Nonton ini gara-gara video klip Muse - Pressure."
+        "review": "Nonton ini gara-gara video klip Muse - Pressure. Di tahun 2020, film ini masih layak ditonton."
     }
 ]

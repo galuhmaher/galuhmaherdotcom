@@ -12,9 +12,16 @@ title = "Galuh Maher Website"
 # Generate
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+
 [permalinks]
   blog = "/:slug/"
   redirect = "/:slug/"
   page = "/:slug/"
   tags = "/tags/:slug"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
