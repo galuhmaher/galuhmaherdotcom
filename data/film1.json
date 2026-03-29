@@ -525,6 +525,16 @@
         "review": "Suka sama nuansa 90an-nya. Nyewa komik, dengerin lagu pakai walkman, telpon umum, dll."
     },
     {
+        "judul": "Yang Hilang Dalam Cinta S1",
+        "tahun": 2022,
+        "rilis": "2022-07-30",
+        "tipe": "series",
+        "rating": 7,
+        "ditonton": "2026-03-25",
+        "poster": "https://image.tmdb.org/t/p/w500/tJR1FcP5QtxjYXfd06u1i3qma7M.jpg",
+        "review": "Aku ayo aja nonton romance, yang penting ada bumbu fantasy atau sci-fi."
+    },
+    {
         "judul": "Dune",
         "tahun": 2021,
         "rilis": "2021-10-22",
@@ -542,7 +552,7 @@
         "rating": 8,
         "ditonton": "2021-09-24",
         "poster": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
-        "review": "Suka banget sama POV third person-nya."
+        "review": "CGI-nya oke punya."
     },
     {
         "judul": "Space Sweepers",
@@ -655,6 +665,16 @@
         "ditonton": "2019-12-17",
         "poster": "https://image.tmdb.org/t/p/w500/mZuAPY4ETMQPHhCXIcJ90kd6RaS.jpg",
         "review": "Orang jahat terlahir dari orang baik yang tersakitty."
+    },
+    {
+        "judul": "Knives Out",
+        "tahun": 2019,
+        "rilis": "2019-11-27",
+        "tipe": "film",
+        "rating": 8,
+        "ditonton": "2020-02-07",
+        "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+        "review": "Film ini muncul pas aku lagi kangen banget sama film-film detektif."
     },
     {
         "judul": "Parasite",

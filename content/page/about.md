@@ -19,7 +19,7 @@ Nama saya Galuh Maher. Lahir tahun 1998. Zodiak aries. berikut ini adalah playli
 ## Minat dan Topik
 Saya tertarik pada beberapa hal, yaitu:
 - Film dan Series
-- Konspirasi sejarah dunia seperti alien, ancient technology, hollow earth, illuminati, dll.
+- Konspirasi sejarah dunia seperti alien, hollow-earth, illuminati, dll.
 - Homelab Server
 - Koleksi CD dan file musik
 - Personal Website / Indie Website
